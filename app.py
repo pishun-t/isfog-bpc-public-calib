@@ -3,8 +3,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 import pandas as pd
-from lib.insitu import fun_Gmax_with_depth
-from lib.elastic import fun_ICG3S_R
+from insitu import fun_Gmax_with_depth
+from elastic import fun_ICG3S_R
 import os
 
 # import plotting data
