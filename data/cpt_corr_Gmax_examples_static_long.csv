@@ -1,0 +1,1687 @@
+Depth_m,Correlation_method,Gmax_MPa
+0.01,Hegazy & Mayne (1995) - 1,0.271895201
+0.01,Baldi et al. (1989) Ticino sand OCR=1,0.792277077
+0.01,Baldi et al. (1989) Ticino sand OCR=10,0.962648295
+0.01,Rix & Stokoe (1991) - average,1.177116357
+0.01,Rix & Stokoe (1991) - upper bound,1.765674535
+0.01,Rix & Stokoe (1991) - lower bound,0.588558178
+0.02,Hegazy & Mayne (1995) - 1,0.537551111
+0.02,Hegazy & Mayne (1995) - 2,1.586920271
+0.02,Baldi et al. (1989) Ticino sand OCR=1,1.410261763
+0.02,Baldi et al. (1989) Ticino sand OCR=10,1.725452022
+0.02,Rix & Stokoe (1991) - average,2.024248843
+0.02,Rix & Stokoe (1991) - upper bound,3.036373265
+0.02,Rix & Stokoe (1991) - lower bound,1.012124422
+0.03,Hegazy & Mayne (1995) - 1,0.865068451
+0.03,Hegazy & Mayne (1995) - 2,2.54859346
+0.03,Baldi et al. (1989) Ticino sand OCR=1,2.09614717
+0.03,Baldi et al. (1989) Ticino sand OCR=10,2.579646263
+0.03,Rix & Stokoe (1991) - average,2.922679681
+0.03,Rix & Stokoe (1991) - upper bound,4.384019522
+0.03,Rix & Stokoe (1991) - lower bound,1.461339841
+0.04,Hegazy & Mayne (1995) - 1,1.272322535
+0.04,Hegazy & Mayne (1995) - 2,3.842520938
+0.04,Baldi et al. (1989) Ticino sand OCR=1,2.881252594
+0.04,Baldi et al. (1989) Ticino sand OCR=10,3.564528338
+0.04,Rix & Stokoe (1991) - average,3.913752188
+0.04,Rix & Stokoe (1991) - upper bound,5.870628281
+0.04,Rix & Stokoe (1991) - lower bound,1.956876094
+0.05,Hegazy & Mayne (1995) - 1,1.696572303
+0.05,Hegazy & Mayne (1995) - 2,5.147840877
+0.05,Baldi et al. (1989) Ticino sand OCR=1,3.655350464
+0.05,Baldi et al. (1989) Ticino sand OCR=10,4.53946829
+0.05,Rix & Stokoe (1991) - average,4.872047471
+0.05,Rix & Stokoe (1991) - upper bound,7.308071207
+0.05,Rix & Stokoe (1991) - lower bound,2.436023736
+0.06,Hegazy & Mayne (1995) - 1,2.106308497
+0.06,Hegazy & Mayne (1995) - 2,6.252982303
+0.06,Baldi et al. (1989) Ticino sand OCR=1,4.3764189
+0.06,Baldi et al. (1989) Ticino sand OCR=10,5.449526461
+0.06,Rix & Stokoe (1991) - average,5.7559178
+0.06,Rix & Stokoe (1991) - upper bound,8.6338767
+0.06,Rix & Stokoe (1991) - lower bound,2.8779589
+0.07,Hegazy & Mayne (1995) - 1,2.496733288
+0.07,Hegazy & Mayne (1995) - 2,7.094308949
+0.07,Baldi et al. (1989) Ticino sand OCR=1,5.046050729
+0.07,Baldi et al. (1989) Ticino sand OCR=10,6.29573786
+0.07,Rix & Stokoe (1991) - average,6.571971702
+0.07,Rix & Stokoe (1991) - upper bound,9.857957553
+0.07,Rix & Stokoe (1991) - lower bound,3.285985851
+0.08,Hegazy & Mayne (1995) - 1,2.830018438
+0.08,Hegazy & Mayne (1995) - 2,7.985585706
+0.08,Baldi et al. (1989) Ticino sand OCR=1,5.613011275
+0.08,Baldi et al. (1989) Ticino sand OCR=10,7.011501687
+0.08,Rix & Stokoe (1991) - average,7.266982609
+0.08,Rix & Stokoe (1991) - upper bound,10.90047391
+0.08,Rix & Stokoe (1991) - lower bound,3.633491305
+0.09,Hegazy & Mayne (1995) - 1,3.191686689
+0.09,Hegazy & Mayne (1995) - 2,8.988990765
+0.09,Baldi et al. (1989) Ticino sand OCR=1,6.211938674
+0.09,Baldi et al. (1989) Ticino sand OCR=10,7.76960208
+0.09,Rix & Stokoe (1991) - average,7.991321408
+0.09,Rix & Stokoe (1991) - upper bound,11.98698211
+0.09,Rix & Stokoe (1991) - lower bound,3.995660704
+0.1,Hegazy & Mayne (1995) - 1,3.536555365
+0.1,Hegazy & Mayne (1995) - 2,9.899205576
+0.1,Baldi et al. (1989) Ticino sand OCR=1,6.7757701
+0.1,Baldi et al. (1989) Ticino sand OCR=10,8.48356023
+0.1,Rix & Stokoe (1991) - average,8.672082047
+0.1,Rix & Stokoe (1991) - upper bound,13.00812307
+0.1,Rix & Stokoe (1991) - lower bound,4.336041023
+0.11,Hegazy & Mayne (1995) - 1,3.863814462
+0.11,Hegazy & Mayne (1995) - 2,10.64430687
+0.11,Baldi et al. (1989) Ticino sand OCR=1,7.305599893
+0.11,Baldi et al. (1989) Ticino sand OCR=10,9.154555075
+0.11,Rix & Stokoe (1991) - average,9.311538215
+0.11,Rix & Stokoe (1991) - upper bound,13.96730732
+0.11,Rix & Stokoe (1991) - lower bound,4.655769107
+0.12,Hegazy & Mayne (1995) - 1,4.27344802
+0.12,Hegazy & Mayne (1995) - 2,11.8177542
+0.12,Baldi et al. (1989) Ticino sand OCR=1,7.945997466
+0.12,Baldi et al. (1989) Ticino sand OCR=10,9.969202923
+0.12,Rix & Stokoe (1991) - average,10.06643378
+0.12,Rix & Stokoe (1991) - upper bound,15.09965068
+0.12,Rix & Stokoe (1991) - lower bound,5.033216892
+0.13,Hegazy & Mayne (1995) - 1,4.637180213
+0.13,Hegazy & Mayne (1995) - 2,12.81461173
+0.13,Baldi et al. (1989) Ticino sand OCR=1,8.512481199
+0.13,Baldi et al. (1989) Ticino sand OCR=10,10.68921735
+0.13,Rix & Stokoe (1991) - average,10.73755461
+0.13,Rix & Stokoe (1991) - upper bound,16.10633191
+0.13,Rix & Stokoe (1991) - lower bound,5.368777305
+0.14,Hegazy & Mayne (1995) - 1,4.978364602
+0.14,Hegazy & Mayne (1995) - 2,13.74275717
+0.14,Baldi et al. (1989) Ticino sand OCR=1,9.040763707
+0.14,Baldi et al. (1989) Ticino sand OCR=10,11.36051727
+0.14,Rix & Stokoe (1991) - average,11.36440371
+0.14,Rix & Stokoe (1991) - upper bound,17.04660556
+0.14,Rix & Stokoe (1991) - lower bound,5.682201854
+0.15,Hegazy & Mayne (1995) - 1,5.32545913
+0.15,Hegazy & Mayne (1995) - 2,14.67030644
+0.15,Baldi et al. (1989) Ticino sand OCR=1,9.571555348
+0.15,Baldi et al. (1989) Ticino sand OCR=10,12.03568696
+0.15,Rix & Stokoe (1991) - average,11.99100178
+0.15,Rix & Stokoe (1991) - upper bound,17.98650267
+0.15,Rix & Stokoe (1991) - lower bound,5.995500889
+0.16,Hegazy & Mayne (1995) - 1,5.698857864
+0.16,Hegazy & Mayne (1995) - 2,15.69523408
+0.16,Baldi et al. (1989) Ticino sand OCR=1,10.13282099
+0.16,Baldi et al. (1989) Ticino sand OCR=10,12.75094567
+0.16,Rix & Stokoe (1991) - average,12.64719339
+0.16,Rix & Stokoe (1991) - upper bound,18.97079009
+0.16,Rix & Stokoe (1991) - lower bound,6.323596695
+0.17,Hegazy & Mayne (1995) - 1,6.186911711
+0.17,Hegazy & Mayne (1995) - 2,17.21378414
+0.17,Baldi et al. (1989) Ticino sand OCR=1,10.84263949
+0.17,Baldi et al. (1989) Ticino sand OCR=10,13.65956116
+0.17,Rix & Stokoe (1991) - average,13.45749052
+0.17,Rix & Stokoe (1991) - upper bound,20.18623578
+0.17,Rix & Stokoe (1991) - lower bound,6.728745261
+0.18,Hegazy & Mayne (1995) - 1,6.682559911
+0.18,Hegazy & Mayne (1995) - 2,18.72289565
+0.18,Baldi et al. (1989) Ticino sand OCR=1,11.55375229
+0.18,Baldi et al. (1989) Ticino sand OCR=10,14.57076667
+0.18,Rix & Stokoe (1991) - average,14.26516822
+0.18,Rix & Stokoe (1991) - upper bound,21.39775233
+0.18,Rix & Stokoe (1991) - lower bound,7.132584111
+0.19,Hegazy & Mayne (1995) - 1,7.103884069
+0.19,Hegazy & Mayne (1995) - 2,20.09142748
+0.19,Baldi et al. (1989) Ticino sand OCR=1,12.15930338
+0.19,Baldi et al. (1989) Ticino sand OCR=10,15.34556934
+0.19,Rix & Stokoe (1991) - average,14.95879509
+0.19,Rix & Stokoe (1991) - upper bound,22.43819264
+0.19,Rix & Stokoe (1991) - lower bound,7.479397546
+0.2,Hegazy & Mayne (1995) - 1,7.561155259
+0.2,Hegazy & Mayne (1995) - 2,21.43577984
+0.2,Baldi et al. (1989) Ticino sand OCR=1,12.80596913
+0.2,Baldi et al. (1989) Ticino sand OCR=10,16.17444836
+0.2,Rix & Stokoe (1991) - average,15.69265572
+0.2,Rix & Stokoe (1991) - upper bound,23.53898358
+0.2,Rix & Stokoe (1991) - lower bound,7.846327859
+0.21,Hegazy & Mayne (1995) - 1,7.951367146
+0.21,Hegazy & Mayne (1995) - 2,22.49751312
+0.21,Baldi et al. (1989) Ticino sand OCR=1,13.3603707
+0.21,Baldi et al. (1989) Ticino sand OCR=10,16.88383423
+0.21,Rix & Stokoe (1991) - average,16.3279409
+0.21,Rix & Stokoe (1991) - upper bound,24.49191135
+0.21,Rix & Stokoe (1991) - lower bound,8.163970449
+0.22,Hegazy & Mayne (1995) - 1,8.348543581
+0.22,Hegazy & Mayne (1995) - 2,23.69542145
+0.22,Baldi et al. (1989) Ticino sand OCR=1,13.91946311
+0.22,Baldi et al. (1989) Ticino sand OCR=10,17.59978284
+0.22,Rix & Stokoe (1991) - average,16.9660472
+0.22,Rix & Stokoe (1991) - upper bound,25.4490708
+0.22,Rix & Stokoe (1991) - lower bound,8.483023599
+0.23,Hegazy & Mayne (1995) - 1,8.828363149
+0.23,Hegazy & Mayne (1995) - 2,25.22813461
+0.23,Baldi et al. (1989) Ticino sand OCR=1,14.57908578
+0.23,Baldi et al. (1989) Ticino sand OCR=10,18.44719683
+0.23,Rix & Stokoe (1991) - average,17.70602332
+0.23,Rix & Stokoe (1991) - upper bound,26.55903498
+0.23,Rix & Stokoe (1991) - lower bound,8.85301166
+0.24,Hegazy & Mayne (1995) - 1,9.199678293
+0.24,Hegazy & Mayne (1995) - 2,26.34620453
+0.24,Baldi et al. (1989) Ticino sand OCR=1,15.09695862
+0.24,Baldi et al. (1989) Ticino sand OCR=10,19.11032133
+0.24,Rix & Stokoe (1991) - average,18.29755491
+0.24,Rix & Stokoe (1991) - upper bound,27.44633236
+0.24,Rix & Stokoe (1991) - lower bound,9.148777454
+0.25,Hegazy & Mayne (1995) - 1,9.561712013
+0.25,Hegazy & Mayne (1995) - 2,27.21876703
+0.25,Baldi et al. (1989) Ticino sand OCR=1,15.5999858
+0.25,Baldi et al. (1989) Ticino sand OCR=10,19.75443737
+0.25,Rix & Stokoe (1991) - average,18.87220627
+0.25,Rix & Stokoe (1991) - upper bound,28.30830941
+0.25,Rix & Stokoe (1991) - lower bound,9.436103137
+0.26,Hegazy & Mayne (1995) - 1,9.97393802
+0.26,Hegazy & Mayne (1995) - 2,28.33126
+0.26,Baldi et al. (1989) Ticino sand OCR=1,16.16236888
+0.26,Baldi et al. (1989) Ticino sand OCR=10,20.47634589
+0.26,Rix & Stokoe (1991) - average,19.50627828
+0.26,Rix & Stokoe (1991) - upper bound,29.25941742
+0.26,Rix & Stokoe (1991) - lower bound,9.753139139
+0.27,Hegazy & Mayne (1995) - 1,10.27489911
+0.27,Hegazy & Mayne (1995) - 2,28.79799862
+0.27,Baldi et al. (1989) Ticino sand OCR=1,16.58380344
+0.27,Baldi et al. (1989) Ticino sand OCR=10,21.01462095
+0.27,Rix & Stokoe (1991) - average,19.99429954
+0.27,Rix & Stokoe (1991) - upper bound,29.99144931
+0.27,Rix & Stokoe (1991) - lower bound,9.99714977
+0.28,Hegazy & Mayne (1995) - 1,10.58081525
+0.28,Hegazy & Mayne (1995) - 2,29.48252023
+0.28,Baldi et al. (1989) Ticino sand OCR=1,17.00930694
+0.28,Baldi et al. (1989) Ticino sand OCR=10,21.55845707
+0.28,Rix & Stokoe (1991) - average,20.48533725
+0.28,Rix & Stokoe (1991) - upper bound,30.72800588
+0.28,Rix & Stokoe (1991) - lower bound,10.24266863
+0.29,Hegazy & Mayne (1995) - 1,10.91119977
+0.29,Hegazy & Mayne (1995) - 2,30.1747966
+0.29,Baldi et al. (1989) Ticino sand OCR=1,17.46280438
+0.29,Baldi et al. (1989) Ticino sand OCR=10,22.13909449
+0.29,Rix & Stokoe (1991) - average,21.00388764
+0.29,Rix & Stokoe (1991) - upper bound,31.50583145
+0.29,Rix & Stokoe (1991) - lower bound,10.50194382
+0.3,Hegazy & Mayne (1995) - 1,11.21745701
+0.3,Hegazy & Mayne (1995) - 2,30.68343886
+0.3,Baldi et al. (1989) Ticino sand OCR=1,17.88467024
+0.3,Baldi et al. (1989) Ticino sand OCR=10,22.67866176
+0.3,Rix & Stokoe (1991) - average,21.48899363
+0.3,Rix & Stokoe (1991) - upper bound,32.23349045
+0.3,Rix & Stokoe (1991) - lower bound,10.74449682
+0.31,Hegazy & Mayne (1995) - 1,11.5314038
+0.31,Hegazy & Mayne (1995) - 2,31.31679631
+0.31,Baldi et al. (1989) Ticino sand OCR=1,18.31402082
+0.31,Baldi et al. (1989) Ticino sand OCR=10,23.22823206
+0.31,Rix & Stokoe (1991) - average,21.98071002
+0.31,Rix & Stokoe (1991) - upper bound,32.97106503
+0.31,Rix & Stokoe (1991) - lower bound,10.99035501
+0.32,Hegazy & Mayne (1995) - 1,11.84028969
+0.32,Hegazy & Mayne (1995) - 2,32.09360633
+0.32,Baldi et al. (1989) Ticino sand OCR=1,18.73536187
+0.32,Baldi et al. (1989) Ticino sand OCR=10,23.76755595
+0.32,Rix & Stokoe (1991) - average,22.46325579
+0.32,Rix & Stokoe (1991) - upper bound,33.69488368
+0.32,Rix & Stokoe (1991) - lower bound,11.23162789
+0.33,Hegazy & Mayne (1995) - 1,12.28426205
+0.33,Hegazy & Mayne (1995) - 2,33.30550757
+0.33,Baldi et al. (1989) Ticino sand OCR=1,19.31783528
+0.33,Baldi et al. (1989) Ticino sand OCR=10,24.51773504
+0.33,Rix & Stokoe (1991) - average,23.10880282
+0.33,Rix & Stokoe (1991) - upper bound,34.66320423
+0.33,Rix & Stokoe (1991) - lower bound,11.55440141
+0.34,Hegazy & Mayne (1995) - 1,12.59862909
+0.34,Hegazy & Mayne (1995) - 2,34.03832805
+0.34,Baldi et al. (1989) Ticino sand OCR=1,19.74169837
+0.34,Baldi et al. (1989) Ticino sand OCR=10,25.06081327
+0.34,Rix & Stokoe (1991) - average,23.59186105
+0.34,Rix & Stokoe (1991) - upper bound,35.38779157
+0.34,Rix & Stokoe (1991) - lower bound,11.79593052
+0.35,Hegazy & Mayne (1995) - 1,12.97259119
+0.35,Hegazy & Mayne (1995) - 2,34.9364462
+0.35,Baldi et al. (1989) Ticino sand OCR=1,20.23509737
+0.35,Baldi et al. (1989) Ticino sand OCR=10,25.69504691
+0.35,Rix & Stokoe (1991) - average,24.14456635
+0.35,Rix & Stokoe (1991) - upper bound,36.21684953
+0.35,Rix & Stokoe (1991) - lower bound,12.07228318
+0.36,Hegazy & Mayne (1995) - 1,13.52978835
+0.36,Hegazy & Mayne (1995) - 2,36.6179656
+0.36,Baldi et al. (1989) Ticino sand OCR=1,20.94387111
+0.36,Baldi et al. (1989) Ticino sand OCR=10,26.6113842
+0.36,Rix & Stokoe (1991) - average,24.91418079
+0.36,Rix & Stokoe (1991) - upper bound,37.37127119
+0.36,Rix & Stokoe (1991) - lower bound,12.4570904
+0.37,Hegazy & Mayne (1995) - 1,13.97915084
+0.37,Hegazy & Mayne (1995) - 2,37.97501618
+0.37,Baldi et al. (1989) Ticino sand OCR=1,21.52096426
+0.37,Baldi et al. (1989) Ticino sand OCR=10,27.35576034
+0.37,Rix & Stokoe (1991) - average,25.54898063
+0.37,Rix & Stokoe (1991) - upper bound,38.32347094
+0.37,Rix & Stokoe (1991) - lower bound,12.77449031
+0.38,Hegazy & Mayne (1995) - 1,14.44212054
+0.38,Hegazy & Mayne (1995) - 2,39.176685
+0.38,Baldi et al. (1989) Ticino sand OCR=1,22.11114116
+0.38,Baldi et al. (1989) Ticino sand OCR=10,28.11757699
+0.38,Rix & Stokoe (1991) - average,26.19568211
+0.38,Rix & Stokoe (1991) - upper bound,39.29352317
+0.38,Rix & Stokoe (1991) - lower bound,13.09784106
+0.39,Hegazy & Mayne (1995) - 1,14.94046621
+0.39,Hegazy & Mayne (1995) - 2,40.63369201
+0.39,Baldi et al. (1989) Ticino sand OCR=1,22.73962981
+0.39,Baldi et al. (1989) Ticino sand OCR=10,28.92991002
+0.39,Rix & Stokoe (1991) - average,26.87959429
+0.39,Rix & Stokoe (1991) - upper bound,40.31939143
+0.39,Rix & Stokoe (1991) - lower bound,13.43979714
+0.4,Hegazy & Mayne (1995) - 1,15.39432993
+0.4,Hegazy & Mayne (1995) - 2,41.99678603
+0.4,Baldi et al. (1989) Ticino sand OCR=1,23.31326899
+0.4,Baldi et al. (1989) Ticino sand OCR=10,29.67066969
+0.4,Rix & Stokoe (1991) - average,27.50708735
+0.4,Rix & Stokoe (1991) - upper bound,41.26063102
+0.4,Rix & Stokoe (1991) - lower bound,13.75354367
+0.41,Hegazy & Mayne (1995) - 1,15.91879644
+0.41,Hegazy & Mayne (1995) - 2,43.58075377
+0.41,Baldi et al. (1989) Ticino sand OCR=1,23.9657373
+0.41,Baldi et al. (1989) Ticino sand OCR=10,30.51509728
+0.41,Rix & Stokoe (1991) - average,28.21232672
+0.41,Rix & Stokoe (1991) - upper bound,42.31849007
+0.41,Rix & Stokoe (1991) - lower bound,14.10616336
+0.42,Hegazy & Mayne (1995) - 1,16.2646109
+0.42,Hegazy & Mayne (1995) - 2,44.14618464
+0.42,Baldi et al. (1989) Ticino sand OCR=1,24.40975058
+0.42,Baldi et al. (1989) Ticino sand OCR=10,31.08636362
+0.42,Rix & Stokoe (1991) - average,28.7078519
+0.42,Rix & Stokoe (1991) - upper bound,43.06177785
+0.42,Rix & Stokoe (1991) - lower bound,14.35392595
+0.43,Hegazy & Mayne (1995) - 1,16.69776998
+0.43,Hegazy & Mayne (1995) - 2,45.2696173
+0.43,Baldi et al. (1989) Ticino sand OCR=1,24.95229565
+0.43,Baldi et al. (1989) Ticino sand OCR=10,31.78709932
+0.43,Rix & Stokoe (1991) - average,29.30100937
+0.43,Rix & Stokoe (1991) - upper bound,43.95151405
+0.43,Rix & Stokoe (1991) - lower bound,14.65050468
+0.44,Hegazy & Mayne (1995) - 1,16.99593664
+0.44,Hegazy & Mayne (1995) - 2,45.94546922
+0.44,Baldi et al. (1989) Ticino sand OCR=1,25.33867578
+0.44,Baldi et al. (1989) Ticino sand OCR=10,32.28308305
+0.44,Rix & Stokoe (1991) - average,29.73746395
+0.44,Rix & Stokoe (1991) - upper bound,44.60619593
+0.44,Rix & Stokoe (1991) - lower bound,14.86873198
+0.45,Hegazy & Mayne (1995) - 1,17.369813
+0.45,Hegazy & Mayne (1995) - 2,46.89901987
+0.45,Baldi et al. (1989) Ticino sand OCR=1,25.81012863
+0.45,Baldi et al. (1989) Ticino sand OCR=10,32.89088269
+0.45,Rix & Stokoe (1991) - average,30.25808812
+0.45,Rix & Stokoe (1991) - upper bound,45.38713218
+0.45,Rix & Stokoe (1991) - lower bound,15.12904406
+0.46,Hegazy & Mayne (1995) - 1,17.69107326
+0.46,Hegazy & Mayne (1995) - 2,47.52480464
+0.46,Baldi et al. (1989) Ticino sand OCR=1,26.22029823
+0.46,Baldi et al. (1989) Ticino sand OCR=10,33.41839208
+0.46,Rix & Stokoe (1991) - average,30.71693565
+0.46,Rix & Stokoe (1991) - upper bound,46.07540347
+0.46,Rix & Stokoe (1991) - lower bound,15.35846782
+0.47,Hegazy & Mayne (1995) - 1,17.96456396
+0.47,Hegazy & Mayne (1995) - 2,48.01131286
+0.47,Baldi et al. (1989) Ticino sand OCR=1,26.5751636
+0.47,Baldi et al. (1989) Ticino sand OCR=10,33.87342404
+0.47,Rix & Stokoe (1991) - average,31.12010512
+0.47,Rix & Stokoe (1991) - upper bound,46.68015768
+0.47,Rix & Stokoe (1991) - lower bound,15.56005256
+0.48,Hegazy & Mayne (1995) - 1,18.19649835
+0.48,Hegazy & Mayne (1995) - 2,48.24943543
+0.48,Baldi et al. (1989) Ticino sand OCR=1,26.88208495
+0.48,Baldi et al. (1989) Ticino sand OCR=10,34.26562238
+0.48,Rix & Stokoe (1991) - average,31.47500401
+0.48,Rix & Stokoe (1991) - upper bound,47.21250601
+0.48,Rix & Stokoe (1991) - lower bound,15.737502
+0.49,Hegazy & Mayne (1995) - 1,18.49964933
+0.49,Hegazy & Mayne (1995) - 2,48.65520929
+0.49,Baldi et al. (1989) Ticino sand OCR=1,27.26866925
+0.49,Baldi et al. (1989) Ticino sand OCR=10,34.76254723
+0.49,Rix & Stokoe (1991) - average,31.90864713
+0.49,Rix & Stokoe (1991) - upper bound,47.8629707
+0.49,Rix & Stokoe (1991) - lower bound,15.95432357
+0.5,Hegazy & Mayne (1995) - 1,18.71058751
+0.5,Hegazy & Mayne (1995) - 2,48.77136947
+0.5,Baldi et al. (1989) Ticino sand OCR=1,27.55028954
+0.5,Baldi et al. (1989) Ticino sand OCR=10,35.12174493
+0.5,Rix & Stokoe (1991) - average,32.23734978
+0.5,Rix & Stokoe (1991) - upper bound,48.35602466
+0.5,Rix & Stokoe (1991) - lower bound,16.11867489
+0.51,Hegazy & Mayne (1995) - 1,18.95681715
+0.51,Hegazy & Mayne (1995) - 2,49.04237188
+0.51,Baldi et al. (1989) Ticino sand OCR=1,27.87097826
+0.51,Baldi et al. (1989) Ticino sand OCR=10,35.53235727
+0.51,Rix & Stokoe (1991) - average,32.60442465
+0.51,Rix & Stokoe (1991) - upper bound,48.90663698
+0.51,Rix & Stokoe (1991) - lower bound,16.30221233
+0.52,Hegazy & Mayne (1995) - 1,19.16346442
+0.52,Hegazy & Mayne (1995) - 2,49.23546812
+0.52,Baldi et al. (1989) Ticino sand OCR=1,28.14638886
+0.52,Baldi et al. (1989) Ticino sand OCR=10,35.88360901
+0.52,Rix & Stokoe (1991) - average,32.9259969
+0.52,Rix & Stokoe (1991) - upper bound,49.38899535
+0.52,Rix & Stokoe (1991) - lower bound,16.46299845
+0.53,Hegazy & Mayne (1995) - 1,19.39447076
+0.53,Hegazy & Mayne (1995) - 2,49.62738609
+0.53,Baldi et al. (1989) Ticino sand OCR=1,28.44853016
+0.53,Baldi et al. (1989) Ticino sand OCR=10,36.27006794
+0.53,Rix & Stokoe (1991) - average,33.2736918
+0.53,Rix & Stokoe (1991) - upper bound,49.9105377
+0.53,Rix & Stokoe (1991) - lower bound,16.6368459
+0.54,Hegazy & Mayne (1995) - 1,19.65246896
+0.54,Hegazy & Mayne (1995) - 2,50.13312049
+0.54,Baldi et al. (1989) Ticino sand OCR=1,28.78026231
+0.54,Baldi et al. (1989) Ticino sand OCR=10,36.69549186
+0.54,Rix & Stokoe (1991) - average,33.65035013
+0.54,Rix & Stokoe (1991) - upper bound,50.47552519
+0.54,Rix & Stokoe (1991) - lower bound,16.82517506
+0.55,Hegazy & Mayne (1995) - 1,19.90041451
+0.55,Hegazy & Mayne (1995) - 2,50.58419972
+0.55,Baldi et al. (1989) Ticino sand OCR=1,29.09997565
+0.55,Baldi et al. (1989) Ticino sand OCR=10,37.1052292
+0.55,Rix & Stokoe (1991) - average,34.01461177
+0.55,Rix & Stokoe (1991) - upper bound,51.02191765
+0.55,Rix & Stokoe (1991) - lower bound,17.00730588
+0.56,Hegazy & Mayne (1995) - 1,20.17036506
+0.56,Hegazy & Mayne (1995) - 2,51.13740651
+0.56,Baldi et al. (1989) Ticino sand OCR=1,29.44358005
+0.56,Baldi et al. (1989) Ticino sand OCR=10,37.54644731
+0.56,Rix & Stokoe (1991) - average,34.40216739
+0.56,Rix & Stokoe (1991) - upper bound,51.60325108
+0.56,Rix & Stokoe (1991) - lower bound,17.20108369
+0.57,Hegazy & Mayne (1995) - 1,20.52312222
+0.57,Hegazy & Mayne (1995) - 2,51.99394572
+0.57,Baldi et al. (1989) Ticino sand OCR=1,29.87877807
+0.57,Baldi et al. (1989) Ticino sand OCR=10,38.10810215
+0.57,Rix & Stokoe (1991) - average,34.88019503
+0.57,Rix & Stokoe (1991) - upper bound,52.32029254
+0.57,Rix & Stokoe (1991) - lower bound,17.44009751
+0.58,Hegazy & Mayne (1995) - 1,20.87268536
+0.58,Hegazy & Mayne (1995) - 2,52.86086541
+0.58,Baldi et al. (1989) Ticino sand OCR=1,30.30926089
+0.58,Baldi et al. (1989) Ticino sand OCR=10,38.66368887
+0.58,Rix & Stokoe (1991) - average,35.3529958
+0.58,Rix & Stokoe (1991) - upper bound,53.02949371
+0.58,Rix & Stokoe (1991) - lower bound,17.6764979
+0.59,Hegazy & Mayne (1995) - 1,21.32962477
+0.59,Hegazy & Mayne (1995) - 2,54.17717196
+0.59,Baldi et al. (1989) Ticino sand OCR=1,30.85766155
+0.59,Baldi et al. (1989) Ticino sand OCR=10,39.37439099
+0.59,Rix & Stokoe (1991) - average,35.94205177
+0.59,Rix & Stokoe (1991) - upper bound,53.91307766
+0.59,Rix & Stokoe (1991) - lower bound,17.97102589
+0.6,Hegazy & Mayne (1995) - 1,21.85953225
+0.6,Hegazy & Mayne (1995) - 2,55.80064457
+0.6,Baldi et al. (1989) Ticino sand OCR=1,31.48475259
+0.6,Baldi et al. (1989) Ticino sand OCR=10,40.18875343
+0.6,Rix & Stokoe (1991) - average,36.60811768
+0.6,Rix & Stokoe (1991) - upper bound,54.91217652
+0.6,Rix & Stokoe (1991) - lower bound,18.30405884
+0.61,Hegazy & Mayne (1995) - 1,22.36950549
+0.61,Hegazy & Mayne (1995) - 2,57.3590676
+0.61,Baldi et al. (1989) Ticino sand OCR=1,32.08752886
+0.61,Baldi et al. (1989) Ticino sand OCR=10,40.97138439
+0.61,Rix & Stokoe (1991) - average,37.24918325
+0.61,Rix & Stokoe (1991) - upper bound,55.87377487
+0.61,Rix & Stokoe (1991) - lower bound,18.62459162
+0.62,Hegazy & Mayne (1995) - 1,22.98104889
+0.62,Hegazy & Mayne (1995) - 2,59.16536956
+0.62,Baldi et al. (1989) Ticino sand OCR=1,32.79921502
+0.62,Baldi et al. (1989) Ticino sand OCR=10,41.89754986
+0.62,Rix & Stokoe (1991) - average,37.99662087
+0.62,Rix & Stokoe (1991) - upper bound,56.9949313
+0.62,Rix & Stokoe (1991) - lower bound,18.99831043
+0.63,Hegazy & Mayne (1995) - 1,23.51558311
+0.63,Hegazy & Mayne (1995) - 2,60.70705913
+0.63,Baldi et al. (1989) Ticino sand OCR=1,33.42401831
+0.63,Baldi et al. (1989) Ticino sand OCR=10,42.70966716
+0.63,Rix & Stokoe (1991) - average,38.65738278
+0.63,Rix & Stokoe (1991) - upper bound,57.98607416
+0.63,Rix & Stokoe (1991) - lower bound,19.32869139
+0.64,Hegazy & Mayne (1995) - 1,23.98032801
+0.64,Hegazy & Mayne (1995) - 2,61.947894
+0.64,Baldi et al. (1989) Ticino sand OCR=1,33.97087794
+0.64,Baldi et al. (1989) Ticino sand OCR=10,43.41938897
+0.64,Rix & Stokoe (1991) - average,39.24068583
+0.64,Rix & Stokoe (1991) - upper bound,58.86102874
+0.64,Rix & Stokoe (1991) - lower bound,19.62034291
+0.65,Hegazy & Mayne (1995) - 1,24.43892858
+0.65,Hegazy & Mayne (1995) - 2,63.16302113
+0.65,Baldi et al. (1989) Ticino sand OCR=1,34.50944428
+0.65,Baldi et al. (1989) Ticino sand OCR=10,44.11836106
+0.65,Rix & Stokoe (1991) - average,39.81515276
+0.65,Rix & Stokoe (1991) - upper bound,59.72272913
+0.65,Rix & Stokoe (1991) - lower bound,19.90757638
+0.66,Hegazy & Mayne (1995) - 1,24.8011789
+0.66,Hegazy & Mayne (1995) - 2,63.94939109
+0.66,Baldi et al. (1989) Ticino sand OCR=1,34.94252388
+0.66,Baldi et al. (1989) Ticino sand OCR=10,44.67854579
+0.66,Rix & Stokoe (1991) - average,40.28558804
+0.66,Rix & Stokoe (1991) - upper bound,60.42838206
+0.66,Rix & Stokoe (1991) - lower bound,20.14279402
+0.67,Hegazy & Mayne (1995) - 1,25.12625499
+0.67,Hegazy & Mayne (1995) - 2,64.57086451
+0.67,Baldi et al. (1989) Ticino sand OCR=1,35.33458741
+0.67,Baldi et al. (1989) Ticino sand OCR=10,45.18480744
+0.67,Rix & Stokoe (1991) - average,40.71538445
+0.67,Rix & Stokoe (1991) - upper bound,61.07307667
+0.67,Rix & Stokoe (1991) - lower bound,20.35769222
+0.68,Hegazy & Mayne (1995) - 1,25.39953601
+0.68,Hegazy & Mayne (1995) - 2,64.79810577
+0.68,Baldi et al. (1989) Ticino sand OCR=1,35.67014783
+0.68,Baldi et al. (1989) Ticino sand OCR=10,45.61672391
+0.68,Rix & Stokoe (1991) - average,41.08944936
+0.68,Rix & Stokoe (1991) - upper bound,61.63417404
+0.68,Rix & Stokoe (1991) - lower bound,20.54472468
+0.69,Hegazy & Mayne (1995) - 1,25.62153669
+0.69,Hegazy & Mayne (1995) - 2,64.99168258
+0.69,Baldi et al. (1989) Ticino sand OCR=1,35.94999656
+0.69,Baldi et al. (1989) Ticino sand OCR=10,45.97532268
+0.69,Rix & Stokoe (1991) - average,41.40861502
+0.69,Rix & Stokoe (1991) - upper bound,62.11292252
+0.69,Rix & Stokoe (1991) - lower bound,20.70430751
+0.7,Hegazy & Mayne (1995) - 1,25.85898037
+0.7,Hegazy & Mayne (1995) - 2,65.28385232
+0.7,Baldi et al. (1989) Ticino sand OCR=1,36.24593706
+0.7,Baldi et al. (1989) Ticino sand OCR=10,46.35519497
+0.7,Rix & Stokoe (1991) - average,41.74320764
+0.7,Rix & Stokoe (1991) - upper bound,62.61481145
+0.7,Rix & Stokoe (1991) - lower bound,20.87160382
+0.71,Hegazy & Mayne (1995) - 1,26.04660955
+0.71,Hegazy & Mayne (1995) - 2,65.40160929
+0.71,Baldi et al. (1989) Ticino sand OCR=1,36.48793391
+0.71,Baldi et al. (1989) Ticino sand OCR=10,46.66407023
+0.71,Rix & Stokoe (1991) - average,42.02466649
+0.71,Rix & Stokoe (1991) - upper bound,63.03699974
+0.71,Rix & Stokoe (1991) - lower bound,21.01233325
+0.72,Hegazy & Mayne (1995) - 1,26.23872207
+0.72,Hegazy & Mayne (1995) - 2,65.53566129
+0.72,Baldi et al. (1989) Ticino sand OCR=1,36.73431979
+0.72,Baldi et al. (1989) Ticino sand OCR=10,46.9787978
+0.72,Rix & Stokoe (1991) - average,42.31010935
+0.72,Rix & Stokoe (1991) - upper bound,63.46516403
+0.72,Rix & Stokoe (1991) - lower bound,21.15505468
+0.73,Hegazy & Mayne (1995) - 1,26.4993795
+0.73,Hegazy & Mayne (1995) - 2,65.98850715
+0.73,Baldi et al. (1989) Ticino sand OCR=1,37.05371535
+0.73,Baldi et al. (1989) Ticino sand OCR=10,47.38978215
+0.73,Rix & Stokoe (1991) - average,42.66672229
+0.73,Rix & Stokoe (1991) - upper bound,64.00008343
+0.73,Rix & Stokoe (1991) - lower bound,21.33336114
+0.74,Hegazy & Mayne (1995) - 1,26.75411492
+0.74,Hegazy & Mayne (1995) - 2,66.44253917
+0.74,Baldi et al. (1989) Ticino sand OCR=1,37.3662316
+0.74,Baldi et al. (1989) Ticino sand OCR=10,47.79177413
+0.74,Rix & Stokoe (1991) - average,43.01628596
+0.74,Rix & Stokoe (1991) - upper bound,64.52442894
+0.74,Rix & Stokoe (1991) - lower bound,21.50814298
+0.75,Hegazy & Mayne (1995) - 1,27.03443838
+0.75,Hegazy & Mayne (1995) - 2,66.96952662
+0.75,Baldi et al. (1989) Ticino sand OCR=1,37.70556053
+0.75,Baldi et al. (1989) Ticino sand OCR=10,48.22916558
+0.75,Rix & Stokoe (1991) - average,43.39177265
+0.75,Rix & Stokoe (1991) - upper bound,65.08765898
+0.75,Rix & Stokoe (1991) - lower bound,21.69588633
+0.76,Hegazy & Mayne (1995) - 1,27.4332479
+0.76,Hegazy & Mayne (1995) - 2,67.95786806
+0.76,Baldi et al. (1989) Ticino sand OCR=1,38.17062969
+0.76,Baldi et al. (1989) Ticino sand OCR=10,48.83233381
+0.76,Rix & Stokoe (1991) - average,43.88987541
+0.76,Rix & Stokoe (1991) - upper bound,65.83481312
+0.76,Rix & Stokoe (1991) - lower bound,21.94493771
+0.77,Hegazy & Mayne (1995) - 1,27.81018501
+0.77,Hegazy & Mayne (1995) - 2,68.91997013
+0.77,Baldi et al. (1989) Ticino sand OCR=1,38.61139865
+0.77,Baldi et al. (1989) Ticino sand OCR=10,49.40358326
+0.77,Rix & Stokoe (1991) - average,44.36378409
+0.77,Rix & Stokoe (1991) - upper bound,66.54567614
+0.77,Rix & Stokoe (1991) - lower bound,22.18189205
+0.78,Hegazy & Mayne (1995) - 1,28.30534119
+0.78,Hegazy & Mayne (1995) - 2,70.22328937
+0.78,Baldi et al. (1989) Ticino sand OCR=1,39.17661717
+0.78,Baldi et al. (1989) Ticino sand OCR=10,50.13900053
+0.78,Rix & Stokoe (1991) - average,44.9587103
+0.78,Rix & Stokoe (1991) - upper bound,67.43806545
+0.78,Rix & Stokoe (1991) - lower bound,22.47935515
+0.79,Hegazy & Mayne (1995) - 1,28.77047205
+0.79,Hegazy & Mayne (1995) - 2,71.57734896
+0.79,Baldi et al. (1989) Ticino sand OCR=1,39.70854496
+0.79,Baldi et al. (1989) Ticino sand OCR=10,50.8306792
+0.79,Rix & Stokoe (1991) - average,45.52055135
+0.79,Rix & Stokoe (1991) - upper bound,68.28082702
+0.79,Rix & Stokoe (1991) - lower bound,22.76027567
+0.8,Hegazy & Mayne (1995) - 1,29.25527848
+0.8,Hegazy & Mayne (1995) - 2,72.87835402
+0.8,Baldi et al. (1989) Ticino sand OCR=1,40.25986895
+0.8,Baldi et al. (1989) Ticino sand OCR=10,51.54808137
+0.8,Rix & Stokoe (1991) - average,46.10071041
+0.8,Rix & Stokoe (1991) - upper bound,69.15106561
+0.8,Rix & Stokoe (1991) - lower bound,23.0503552
+0.81,Hegazy & Mayne (1995) - 1,29.69034563
+0.81,Hegazy & Mayne (1995) - 2,73.97184653
+0.81,Baldi et al. (1989) Ticino sand OCR=1,40.75747771
+0.81,Baldi et al. (1989) Ticino sand OCR=10,52.19476863
+0.81,Rix & Stokoe (1991) - average,46.62803976
+0.81,Rix & Stokoe (1991) - upper bound,69.94205964
+0.81,Rix & Stokoe (1991) - lower bound,23.31401988
+0.82,Hegazy & Mayne (1995) - 1,30.104407
+0.82,Hegazy & Mayne (1995) - 2,74.89061062
+0.82,Baldi et al. (1989) Ticino sand OCR=1,41.23192386
+0.82,Baldi et al. (1989) Ticino sand OCR=10,52.81101278
+0.82,Rix & Stokoe (1991) - average,47.13237936
+0.82,Rix & Stokoe (1991) - upper bound,70.69856905
+0.82,Rix & Stokoe (1991) - lower bound,23.56618968
+0.83,Hegazy & Mayne (1995) - 1,30.40290026
+0.83,Hegazy & Mayne (1995) - 2,75.37364161
+0.83,Baldi et al. (1989) Ticino sand OCR=1,41.58435423
+0.83,Baldi et al. (1989) Ticino sand OCR=10,53.26635138
+0.83,Rix & Stokoe (1991) - average,47.51778367
+0.83,Rix & Stokoe (1991) - upper bound,71.2766755
+0.83,Rix & Stokoe (1991) - lower bound,23.75889183
+0.84,Hegazy & Mayne (1995) - 1,30.67757254
+0.84,Hegazy & Mayne (1995) - 2,75.79306352
+0.84,Baldi et al. (1989) Ticino sand OCR=1,41.91129949
+0.84,Baldi et al. (1989) Ticino sand OCR=10,53.68812722
+0.84,Rix & Stokoe (1991) - average,47.87814548
+0.84,Rix & Stokoe (1991) - upper bound,71.81721821
+0.84,Rix & Stokoe (1991) - lower bound,23.93907274
+0.85,Hegazy & Mayne (1995) - 1,30.90345958
+0.85,Hegazy & Mayne (1995) - 2,76.01973939
+0.85,Baldi et al. (1989) Ticino sand OCR=1,42.18675541
+0.85,Baldi et al. (1989) Ticino sand OCR=10,54.04201715
+0.85,Rix & Stokoe (1991) - average,48.18823989
+0.85,Rix & Stokoe (1991) - upper bound,72.28235983
+0.85,Rix & Stokoe (1991) - lower bound,24.09411994
+0.86,Hegazy & Mayne (1995) - 1,31.06978415
+0.86,Hegazy & Mayne (1995) - 2,75.95535311
+0.86,Baldi et al. (1989) Ticino sand OCR=1,42.39958431
+0.86,Baldi et al. (1989) Ticino sand OCR=10,54.31331886
+0.86,Rix & Stokoe (1991) - average,48.4372694
+0.86,Rix & Stokoe (1991) - upper bound,72.65590411
+0.86,Rix & Stokoe (1991) - lower bound,24.2186347
+0.87,Hegazy & Mayne (1995) - 1,31.21233685
+0.87,Hegazy & Mayne (1995) - 2,75.91987258
+0.87,Baldi et al. (1989) Ticino sand OCR=1,42.58725915
+0.87,Baldi et al. (1989) Ticino sand OCR=10,54.55148441
+0.87,Rix & Stokoe (1991) - average,48.66161774
+0.87,Rix & Stokoe (1991) - upper bound,72.99242661
+0.87,Rix & Stokoe (1991) - lower bound,24.33080887
+0.88,Hegazy & Mayne (1995) - 1,31.34000784
+0.88,Hegazy & Mayne (1995) - 2,75.7462761
+0.88,Baldi et al. (1989) Ticino sand OCR=1,42.75908695
+0.88,Baldi et al. (1989) Ticino sand OCR=10,54.76879719
+0.88,Rix & Stokoe (1991) - average,48.8703178
+0.88,Rix & Stokoe (1991) - upper bound,73.3054767
+0.88,Rix & Stokoe (1991) - lower bound,24.4351589
+0.89,Hegazy & Mayne (1995) - 1,31.40499222
+0.89,Hegazy & Mayne (1995) - 2,75.44261176
+0.89,Baldi et al. (1989) Ticino sand OCR=1,42.86511263
+0.89,Baldi et al. (1989) Ticino sand OCR=10,54.8993489
+0.89,Rix & Stokoe (1991) - average,49.01480927
+0.89,Rix & Stokoe (1991) - upper bound,73.52221391
+0.89,Rix & Stokoe (1991) - lower bound,24.50740464
+0.9,Hegazy & Mayne (1995) - 1,31.49038689
+0.9,Hegazy & Mayne (1995) - 2,75.20116408
+0.9,Baldi et al. (1989) Ticino sand OCR=1,42.99217527
+0.9,Baldi et al. (1989) Ticino sand OCR=10,55.05772277
+0.9,Rix & Stokoe (1991) - average,49.17946457
+0.9,Rix & Stokoe (1991) - upper bound,73.76919686
+0.9,Rix & Stokoe (1991) - lower bound,24.58973229
+0.91,Hegazy & Mayne (1995) - 1,31.57983638
+0.91,Hegazy & Mayne (1995) - 2,75.01256758
+0.91,Baldi et al. (1989) Ticino sand OCR=1,43.12319292
+0.91,Baldi et al. (1989) Ticino sand OCR=10,55.22137674
+0.91,Rix & Stokoe (1991) - average,49.34769731
+0.91,Rix & Stokoe (1991) - upper bound,74.02154597
+0.91,Rix & Stokoe (1991) - lower bound,24.67384866
+0.92,Hegazy & Mayne (1995) - 1,31.66984074
+0.92,Hegazy & Mayne (1995) - 2,74.88155156
+0.92,Baldi et al. (1989) Ticino sand OCR=1,43.25451297
+0.92,Baldi et al. (1989) Ticino sand OCR=10,55.38549022
+0.92,Rix & Stokoe (1991) - average,49.51596302
+0.92,Rix & Stokoe (1991) - upper bound,74.27394453
+0.92,Rix & Stokoe (1991) - lower bound,24.75798151
+0.93,Hegazy & Mayne (1995) - 1,31.77183849
+0.93,Hegazy & Mayne (1995) - 2,74.77499668
+0.93,Baldi et al. (1989) Ticino sand OCR=1,43.39810769
+0.93,Baldi et al. (1989) Ticino sand OCR=10,55.56585293
+0.93,Rix & Stokoe (1991) - average,49.69592205
+0.93,Rix & Stokoe (1991) - upper bound,74.54388308
+0.93,Rix & Stokoe (1991) - lower bound,24.84796103
+0.94,Hegazy & Mayne (1995) - 1,31.90585366
+0.94,Hegazy & Mayne (1995) - 2,74.79542128
+0.94,Baldi et al. (1989) Ticino sand OCR=1,43.57493169
+0.94,Baldi et al. (1989) Ticino sand OCR=10,55.79009814
+0.94,Rix & Stokoe (1991) - average,49.90799348
+0.94,Rix & Stokoe (1991) - upper bound,74.86199022
+0.94,Rix & Stokoe (1991) - lower bound,24.95399674
+0.95,Hegazy & Mayne (1995) - 1,32.04454525
+0.95,Hegazy & Mayne (1995) - 2,74.85475986
+0.95,Baldi et al. (1989) Ticino sand OCR=1,43.75638542
+0.95,Baldi et al. (1989) Ticino sand OCR=10,56.0204998
+0.95,Rix & Stokoe (1991) - average,50.12435152
+0.95,Rix & Stokoe (1991) - upper bound,75.18652729
+0.95,Rix & Stokoe (1991) - lower bound,25.06217576
+0.96,Hegazy & Mayne (1995) - 1,32.24221736
+0.96,Hegazy & Mayne (1995) - 2,75.16831038
+0.96,Baldi et al. (1989) Ticino sand OCR=1,43.99923622
+0.96,Baldi et al. (1989) Ticino sand OCR=10,56.33192524
+0.96,Rix & Stokoe (1991) - average,50.40028512
+0.96,Rix & Stokoe (1991) - upper bound,75.60042768
+0.96,Rix & Stokoe (1991) - lower bound,25.20014256
+0.97,Hegazy & Mayne (1995) - 1,32.42286026
+0.97,Hegazy & Mayne (1995) - 2,75.42837781
+0.97,Baldi et al. (1989) Ticino sand OCR=1,44.22399518
+0.97,Baldi et al. (1989) Ticino sand OCR=10,56.61953554
+0.97,Rix & Stokoe (1991) - average,50.6583965
+0.97,Rix & Stokoe (1991) - upper bound,75.98759474
+0.97,Rix & Stokoe (1991) - lower bound,25.32919825
+0.98,Hegazy & Mayne (1995) - 1,32.63629187
+0.98,Hegazy & Mayne (1995) - 2,75.78589666
+0.98,Baldi et al. (1989) Ticino sand OCR=1,44.48270399
+0.98,Baldi et al. (1989) Ticino sand OCR=10,56.95196795
+0.98,Rix & Stokoe (1991) - average,50.94936355
+0.98,Rix & Stokoe (1991) - upper bound,76.42404532
+0.98,Rix & Stokoe (1991) - lower bound,25.47468177
+0.99,Hegazy & Mayne (1995) - 1,32.93378081
+0.99,Hegazy & Mayne (1995) - 2,76.46475438
+0.99,Baldi et al. (1989) Ticino sand OCR=1,44.82874723
+0.99,Baldi et al. (1989) Ticino sand OCR=10,57.39963932
+0.99,Rix & Stokoe (1991) - average,51.32514088
+0.99,Rix & Stokoe (1991) - upper bound,76.98771131
+0.99,Rix & Stokoe (1991) - lower bound,25.66257044
+1.0,Hegazy & Mayne (1995) - 1,33.32048756
+1.0,Hegazy & Mayne (1995) - 2,77.42936858
+1.0,Baldi et al. (1989) Ticino sand OCR=1,45.26715187
+1.0,Baldi et al. (1989) Ticino sand OCR=10,57.96920853
+1.0,Rix & Stokoe (1991) - average,51.79051828
+1.0,Rix & Stokoe (1991) - upper bound,77.68577742
+1.0,Rix & Stokoe (1991) - lower bound,25.89525914
+1.01,Hegazy & Mayne (1995) - 1,33.7517837
+1.01,Hegazy & Mayne (1995) - 2,78.56812232
+1.01,Baldi et al. (1989) Ticino sand OCR=1,45.75106549
+1.01,Baldi et al. (1989) Ticino sand OCR=10,58.59890653
+1.01,Rix & Stokoe (1991) - average,52.29978377
+1.01,Rix & Stokoe (1991) - upper bound,78.44967566
+1.01,Rix & Stokoe (1991) - lower bound,26.14989189
+1.02,Hegazy & Mayne (1995) - 1,34.15139904
+1.02,Hegazy & Mayne (1995) - 2,79.44707821
+1.02,Baldi et al. (1989) Ticino sand OCR=1,46.20119212
+1.02,Baldi et al. (1989) Ticino sand OCR=10,59.18411845
+1.02,Rix & Stokoe (1991) - average,52.77583899
+1.02,Rix & Stokoe (1991) - upper bound,79.16375849
+1.02,Rix & Stokoe (1991) - lower bound,26.3879195
+1.03,Hegazy & Mayne (1995) - 1,34.59367512
+1.03,Hegazy & Mayne (1995) - 2,80.66476029
+1.03,Baldi et al. (1989) Ticino sand OCR=1,46.69460889
+1.03,Baldi et al. (1989) Ticino sand OCR=10,59.82655266
+1.03,Rix & Stokoe (1991) - average,53.29355013
+1.03,Rix & Stokoe (1991) - upper bound,79.9403252
+1.03,Rix & Stokoe (1991) - lower bound,26.64677507
+1.04,Hegazy & Mayne (1995) - 1,35.0500323
+1.04,Hegazy & Mayne (1995) - 2,81.83319105
+1.04,Baldi et al. (1989) Ticino sand OCR=1,47.20156055
+1.04,Baldi et al. (1989) Ticino sand OCR=10,60.48695738
+1.04,Rix & Stokoe (1991) - average,53.82397163
+1.04,Rix & Stokoe (1991) - upper bound,80.73595744
+1.04,Rix & Stokoe (1991) - lower bound,26.91198581
+1.05,Hegazy & Mayne (1995) - 1,35.43447693
+1.05,Hegazy & Mayne (1995) - 2,82.59155236
+1.05,Baldi et al. (1989) Ticino sand OCR=1,47.63345577
+1.05,Baldi et al. (1989) Ticino sand OCR=10,61.04837296
+1.05,Rix & Stokoe (1991) - average,54.28126517
+1.05,Rix & Stokoe (1991) - upper bound,81.42189776
+1.05,Rix & Stokoe (1991) - lower bound,27.14063259
+1.06,Hegazy & Mayne (1995) - 1,35.77757971
+1.06,Hegazy & Mayne (1995) - 2,83.30636394
+1.06,Baldi et al. (1989) Ticino sand OCR=1,48.02213355
+1.06,Baldi et al. (1989) Ticino sand OCR=10,61.55279996
+1.06,Rix & Stokoe (1991) - average,54.6964045
+1.06,Rix & Stokoe (1991) - upper bound,82.04460675
+1.06,Rix & Stokoe (1991) - lower bound,27.34820225
+1.07,Hegazy & Mayne (1995) - 1,36.04145618
+1.07,Hegazy & Mayne (1995) - 2,83.68444981
+1.07,Baldi et al. (1989) Ticino sand OCR=1,48.32889215
+1.07,Baldi et al. (1989) Ticino sand OCR=10,61.94911502
+1.07,Rix & Stokoe (1991) - average,55.03199547
+1.07,Rix & Stokoe (1991) - upper bound,82.5479932
+1.07,Rix & Stokoe (1991) - lower bound,27.51599773
+1.08,Hegazy & Mayne (1995) - 1,36.26287576
+1.08,Hegazy & Mayne (1995) - 2,83.86947323
+1.08,Baldi et al. (1989) Ticino sand OCR=1,48.59171389
+1.08,Baldi et al. (1989) Ticino sand OCR=10,62.28745659
+1.08,Rix & Stokoe (1991) - average,55.32486423
+1.08,Rix & Stokoe (1991) - upper bound,82.98729635
+1.08,Rix & Stokoe (1991) - lower bound,27.66243212
+1.09,Hegazy & Mayne (1995) - 1,36.38466873
+1.09,Hegazy & Mayne (1995) - 2,83.73440315
+1.09,Baldi et al. (1989) Ticino sand OCR=1,48.75203791
+1.09,Baldi et al. (1989) Ticino sand OCR=10,62.49049178
+1.09,Rix & Stokoe (1991) - average,55.51834232
+1.09,Rix & Stokoe (1991) - upper bound,83.27751348
+1.09,Rix & Stokoe (1991) - lower bound,27.75917116
+1.1,Hegazy & Mayne (1995) - 1,36.5686942
+1.1,Hegazy & Mayne (1995) - 2,83.92375187
+1.1,Baldi et al. (1989) Ticino sand OCR=1,48.97599177
+1.1,Baldi et al. (1989) Ticino sand OCR=10,62.77758855
+1.1,Rix & Stokoe (1991) - average,55.77323686
+1.1,Rix & Stokoe (1991) - upper bound,83.65985528
+1.1,Rix & Stokoe (1991) - lower bound,27.88661843
+1.11,Hegazy & Mayne (1995) - 1,36.7312553
+1.11,Hegazy & Mayne (1995) - 2,83.98876957
+1.11,Baldi et al. (1989) Ticino sand OCR=1,49.17769239
+1.11,Baldi et al. (1989) Ticino sand OCR=10,63.03534023
+1.11,Rix & Stokoe (1991) - average,56.00641554
+1.11,Rix & Stokoe (1991) - upper bound,84.00962331
+1.11,Rix & Stokoe (1991) - lower bound,28.00320777
+1.12,Hegazy & Mayne (1995) - 1,36.87631157
+1.12,Hegazy & Mayne (1995) - 2,84.02897355
+1.12,Baldi et al. (1989) Ticino sand OCR=1,49.36122314
+1.12,Baldi et al. (1989) Ticino sand OCR=10,63.26913901
+1.12,Rix & Stokoe (1991) - average,56.22183054
+1.12,Rix & Stokoe (1991) - upper bound,84.33274581
+1.12,Rix & Stokoe (1991) - lower bound,28.11091527
+1.13,Hegazy & Mayne (1995) - 1,37.03511665
+1.13,Hegazy & Mayne (1995) - 2,84.13143655
+1.13,Baldi et al. (1989) Ticino sand OCR=1,49.55863143
+1.13,Baldi et al. (1989) Ticino sand OCR=10,63.5213006
+1.13,Rix & Stokoe (1991) - average,56.45051142
+1.13,Rix & Stokoe (1991) - upper bound,84.67576713
+1.13,Rix & Stokoe (1991) - lower bound,28.22525571
+1.14,Hegazy & Mayne (1995) - 1,37.21073663
+1.14,Hegazy & Mayne (1995) - 2,84.35371537
+1.14,Baldi et al. (1989) Ticino sand OCR=1,49.77304789
+1.14,Baldi et al. (1989) Ticino sand OCR=10,63.79595731
+1.14,Rix & Stokoe (1991) - average,56.69549479
+1.14,Rix & Stokoe (1991) - upper bound,85.04324219
+1.14,Rix & Stokoe (1991) - lower bound,28.3477474
+1.15,Hegazy & Mayne (1995) - 1,37.45017001
+1.15,Hegazy & Mayne (1995) - 2,84.75584994
+1.15,Baldi et al. (1989) Ticino sand OCR=1,50.05256733
+1.15,Baldi et al. (1989) Ticino sand OCR=10,64.15661364
+1.15,Rix & Stokoe (1991) - average,57.00334894
+1.15,Rix & Stokoe (1991) - upper bound,85.50502342
+1.15,Rix & Stokoe (1991) - lower bound,28.50167447
+1.16,Hegazy & Mayne (1995) - 1,37.76075911
+1.16,Hegazy & Mayne (1995) - 2,85.44342736
+1.16,Baldi et al. (1989) Ticino sand OCR=1,50.40453948
+1.16,Baldi et al. (1989) Ticino sand OCR=10,64.61298436
+1.16,Rix & Stokoe (1991) - average,57.3811535
+1.16,Rix & Stokoe (1991) - upper bound,86.07173025
+1.16,Rix & Stokoe (1991) - lower bound,28.69057675
+1.17,Hegazy & Mayne (1995) - 1,38.09628849
+1.17,Hegazy & Mayne (1995) - 2,86.19557988
+1.17,Baldi et al. (1989) Ticino sand OCR=1,50.78152237
+1.17,Baldi et al. (1989) Ticino sand OCR=10,65.10243626
+1.17,Rix & Stokoe (1991) - average,57.78293937
+1.17,Rix & Stokoe (1991) - upper bound,86.67440906
+1.17,Rix & Stokoe (1991) - lower bound,28.89146969
+1.18,Hegazy & Mayne (1995) - 1,38.45482586
+1.18,Hegazy & Mayne (1995) - 2,87.00663196
+1.18,Baldi et al. (1989) Ticino sand OCR=1,51.18144509
+1.18,Baldi et al. (1989) Ticino sand OCR=10,65.62224304
+1.18,Rix & Stokoe (1991) - average,58.20667208
+1.18,Rix & Stokoe (1991) - upper bound,87.31000812
+1.18,Rix & Stokoe (1991) - lower bound,29.10333604
+1.19,Hegazy & Mayne (1995) - 1,38.78456702
+1.19,Hegazy & Mayne (1995) - 2,87.7560159
+1.19,Baldi et al. (1989) Ticino sand OCR=1,51.55148032
+1.19,Baldi et al. (1989) Ticino sand OCR=10,66.10263182
+1.19,Rix & Stokoe (1991) - average,58.60127328
+1.19,Rix & Stokoe (1991) - upper bound,87.90190992
+1.19,Rix & Stokoe (1991) - lower bound,29.30063664
+1.2,Hegazy & Mayne (1995) - 1,39.09616713
+1.2,Hegazy & Mayne (1995) - 2,88.44193057
+1.2,Baldi et al. (1989) Ticino sand OCR=1,51.90258413
+1.2,Baldi et al. (1989) Ticino sand OCR=10,66.55806479
+1.2,Rix & Stokoe (1991) - average,58.97736683
+1.2,Rix & Stokoe (1991) - upper bound,88.46605025
+1.2,Rix & Stokoe (1991) - lower bound,29.48868342
+1.21,Hegazy & Mayne (1995) - 1,39.44789099
+1.21,Hegazy & Mayne (1995) - 2,89.22681151
+1.21,Baldi et al. (1989) Ticino sand OCR=1,52.29399196
+1.21,Baldi et al. (1989) Ticino sand OCR=10,67.06679431
+1.21,Rix & Stokoe (1991) - average,59.39217059
+1.21,Rix & Stokoe (1991) - upper bound,89.08825589
+1.21,Rix & Stokoe (1991) - lower bound,29.6960853
+1.22,Hegazy & Mayne (1995) - 1,39.70571812
+1.22,Hegazy & Mayne (1995) - 2,89.69435059
+1.22,Baldi et al. (1989) Ticino sand OCR=1,52.58964047
+1.22,Baldi et al. (1989) Ticino sand OCR=10,67.44905839
+1.22,Rix & Stokoe (1991) - average,59.71431851
+1.22,Rix & Stokoe (1991) - upper bound,89.57147776
+1.22,Rix & Stokoe (1991) - lower bound,29.85715925
+1.23,Hegazy & Mayne (1995) - 1,39.95728126
+1.23,Hegazy & Mayne (1995) - 2,90.14022581
+1.23,Baldi et al. (1989) Ticino sand OCR=1,52.87862409
+1.23,Baldi et al. (1989) Ticino sand OCR=10,67.82255528
+1.23,Rix & Stokoe (1991) - average,60.02986654
+1.23,Rix & Stokoe (1991) - upper bound,90.04479981
+1.23,Rix & Stokoe (1991) - lower bound,30.01493327
+1.24,Hegazy & Mayne (1995) - 1,40.19322215
+1.24,Hegazy & Mayne (1995) - 2,90.45621878
+1.24,Baldi et al. (1989) Ticino sand OCR=1,53.15148378
+1.24,Baldi et al. (1989) Ticino sand OCR=10,68.17478499
+1.24,Rix & Stokoe (1991) - average,60.32969346
+1.24,Rix & Stokoe (1991) - upper bound,90.4945402
+1.24,Rix & Stokoe (1991) - lower bound,30.16484673
+1.25,Hegazy & Mayne (1995) - 1,40.33130586
+1.25,Hegazy & Mayne (1995) - 2,90.45432074
+1.25,Baldi et al. (1989) Ticino sand OCR=1,53.3250058
+1.25,Baldi et al. (1989) Ticino sand OCR=10,68.39579242
+1.25,Rix & Stokoe (1991) - average,60.53351707
+1.25,Rix & Stokoe (1991) - upper bound,90.80027561
+1.25,Rix & Stokoe (1991) - lower bound,30.26675854
+1.26,Hegazy & Mayne (1995) - 1,40.46322804
+1.26,Hegazy & Mayne (1995) - 2,90.42741603
+1.26,Baldi et al. (1989) Ticino sand OCR=1,53.49210611
+1.26,Baldi et al. (1989) Ticino sand OCR=10,68.60834925
+1.26,Rix & Stokoe (1991) - average,60.73099352
+1.26,Rix & Stokoe (1991) - upper bound,91.09649028
+1.26,Rix & Stokoe (1991) - lower bound,30.36549676
+1.27,Hegazy & Mayne (1995) - 1,40.55520328
+1.27,Hegazy & Mayne (1995) - 2,90.18830209
+1.27,Baldi et al. (1989) Ticino sand OCR=1,53.61858323
+1.27,Baldi et al. (1989) Ticino sand OCR=10,68.7672682
+1.27,Rix & Stokoe (1991) - average,60.88910776
+1.27,Rix & Stokoe (1991) - upper bound,91.33366164
+1.27,Rix & Stokoe (1991) - lower bound,30.44455388
+1.28,Hegazy & Mayne (1995) - 1,40.64508734
+1.28,Hegazy & Mayne (1995) - 2,89.93856882
+1.28,Baldi et al. (1989) Ticino sand OCR=1,53.74276754
+1.28,Baldi et al. (1989) Ticino sand OCR=10,68.92319551
+1.28,Rix & Stokoe (1991) - average,61.04484729
+1.28,Rix & Stokoe (1991) - upper bound,91.56727094
+1.28,Rix & Stokoe (1991) - lower bound,30.52242365
+1.29,Hegazy & Mayne (1995) - 1,40.708716
+1.29,Hegazy & Mayne (1995) - 2,89.69411595
+1.29,Baldi et al. (1989) Ticino sand OCR=1,53.84018654
+1.29,Baldi et al. (1989) Ticino sand OCR=10,69.04380131
+1.29,Rix & Stokoe (1991) - average,61.17457618
+1.29,Rix & Stokoe (1991) - upper bound,91.76186427
+1.29,Rix & Stokoe (1991) - lower bound,30.58728809
+1.3,Hegazy & Mayne (1995) - 1,40.76600403
+1.3,Hegazy & Mayne (1995) - 2,89.48606566
+1.3,Baldi et al. (1989) Ticino sand OCR=1,53.93100174
+1.3,Baldi et al. (1989) Ticino sand OCR=10,69.15572414
+1.3,Rix & Stokoe (1991) - average,61.29775347
+1.3,Rix & Stokoe (1991) - upper bound,91.94663021
+1.3,Rix & Stokoe (1991) - lower bound,30.64887674
+1.31,Hegazy & Mayne (1995) - 1,40.8336706
+1.31,Hegazy & Mayne (1995) - 2,89.31321423
+1.31,Baldi et al. (1989) Ticino sand OCR=1,54.03215456
+1.31,Baldi et al. (1989) Ticino sand OCR=10,69.28134267
+1.31,Rix & Stokoe (1991) - average,61.43074955
+1.31,Rix & Stokoe (1991) - upper bound,92.14612432
+1.31,Rix & Stokoe (1991) - lower bound,30.71537477
+1.32,Hegazy & Mayne (1995) - 1,40.94196611
+1.32,Hegazy & Mayne (1995) - 2,89.29056701
+1.32,Baldi et al. (1989) Ticino sand OCR=1,54.17431221
+1.32,Baldi et al. (1989) Ticino sand OCR=10,69.46116003
+1.32,Rix & Stokoe (1991) - average,61.60322147
+1.32,Rix & Stokoe (1991) - upper bound,92.40483221
+1.32,Rix & Stokoe (1991) - lower bound,30.80161074
+1.33,Hegazy & Mayne (1995) - 1,41.01577671
+1.33,Hegazy & Mayne (1995) - 2,89.15558621
+1.33,Baldi et al. (1989) Ticino sand OCR=1,54.28135822
+1.33,Baldi et al. (1989) Ticino sand OCR=10,69.59463553
+1.33,Rix & Stokoe (1991) - average,61.74160203
+1.33,Rix & Stokoe (1991) - upper bound,92.61240304
+1.33,Rix & Stokoe (1991) - lower bound,30.87080101
+1.34,Hegazy & Mayne (1995) - 1,41.14704783
+1.34,Hegazy & Mayne (1995) - 2,89.23026198
+1.34,Baldi et al. (1989) Ticino sand OCR=1,54.44647853
+1.34,Baldi et al. (1989) Ticino sand OCR=10,69.8048475
+1.34,Rix & Stokoe (1991) - average,61.93598982
+1.34,Rix & Stokoe (1991) - upper bound,92.90398473
+1.34,Rix & Stokoe (1991) - lower bound,30.96799491
+1.35,Hegazy & Mayne (1995) - 1,41.30791373
+1.35,Hegazy & Mayne (1995) - 2,89.44360393
+1.35,Baldi et al. (1989) Ticino sand OCR=1,54.6414198
+1.35,Baldi et al. (1989) Ticino sand OCR=10,70.05447512
+1.35,Rix & Stokoe (1991) - average,62.15908359
+1.35,Rix & Stokoe (1991) - upper bound,93.23862538
+1.35,Rix & Stokoe (1991) - lower bound,31.07954179
+1.36,Hegazy & Mayne (1995) - 1,41.48367452
+1.36,Hegazy & Mayne (1995) - 2,89.71616678
+1.36,Baldi et al. (1989) Ticino sand OCR=1,54.85126899
+1.36,Baldi et al. (1989) Ticino sand OCR=10,70.3238212
+1.36,Rix & Stokoe (1991) - average,62.39646586
+1.36,Rix & Stokoe (1991) - upper bound,93.59469879
+1.36,Rix & Stokoe (1991) - lower bound,31.19823293
+1.37,Hegazy & Mayne (1995) - 1,41.7062903
+1.37,Hegazy & Mayne (1995) - 2,90.11056609
+1.37,Baldi et al. (1989) Ticino sand OCR=1,55.10835436
+1.37,Baldi et al. (1989) Ticino sand OCR=10,70.65558388
+1.37,Rix & Stokoe (1991) - average,62.6793956
+1.37,Rix & Stokoe (1991) - upper bound,94.0190934
+1.37,Rix & Stokoe (1991) - lower bound,31.3396978
+1.38,Hegazy & Mayne (1995) - 1,41.99254248
+1.38,Hegazy & Mayne (1995) - 2,90.72767957
+1.38,Baldi et al. (1989) Ticino sand OCR=1,55.4295471
+1.38,Baldi et al. (1989) Ticino sand OCR=10,71.07205314
+1.38,Rix & Stokoe (1991) - average,63.02416048
+1.38,Rix & Stokoe (1991) - upper bound,94.53624071
+1.38,Rix & Stokoe (1991) - lower bound,31.51208024
+1.39,Hegazy & Mayne (1995) - 1,42.35331107
+1.39,Hegazy & Mayne (1995) - 2,91.53639782
+1.39,Baldi et al. (1989) Ticino sand OCR=1,55.82563501
+1.39,Baldi et al. (1989) Ticino sand OCR=10,71.5874961
+1.39,Rix & Stokoe (1991) - average,63.44112279
+1.39,Rix & Stokoe (1991) - upper bound,95.16168418
+1.39,Rix & Stokoe (1991) - lower bound,31.72056139
+1.4,Hegazy & Mayne (1995) - 1,42.63297643
+1.4,Hegazy & Mayne (1995) - 2,92.06282753
+1.4,Baldi et al. (1989) Ticino sand OCR=1,56.13942617
+1.4,Baldi et al. (1989) Ticino sand OCR=10,71.99427045
+1.4,Rix & Stokoe (1991) - average,63.77839359
+1.4,Rix & Stokoe (1991) - upper bound,95.66759039
+1.4,Rix & Stokoe (1991) - lower bound,31.8891968
+1.41,Hegazy & Mayne (1995) - 1,42.99754605
+1.41,Hegazy & Mayne (1995) - 2,92.9012938
+1.41,Baldi et al. (1989) Ticino sand OCR=1,56.53841585
+1.41,Baldi et al. (1989) Ticino sand OCR=10,72.51364585
+1.41,Rix & Stokoe (1991) - average,64.19775581
+1.41,Rix & Stokoe (1991) - upper bound,96.29663371
+1.41,Rix & Stokoe (1991) - lower bound,32.0988779
+1.42,Hegazy & Mayne (1995) - 1,43.26960619
+1.42,Hegazy & Mayne (1995) - 2,93.41506044
+1.42,Baldi et al. (1989) Ticino sand OCR=1,56.84382829
+1.42,Baldi et al. (1989) Ticino sand OCR=10,72.90942952
+1.42,Rix & Stokoe (1991) - average,64.52660771
+1.42,Rix & Stokoe (1991) - upper bound,96.78991157
+1.42,Rix & Stokoe (1991) - lower bound,32.26330386
+1.43,Hegazy & Mayne (1995) - 1,43.53105449
+1.43,Hegazy & Mayne (1995) - 2,93.91879722
+1.43,Baldi et al. (1989) Ticino sand OCR=1,57.13826956
+1.43,Baldi et al. (1989) Ticino sand OCR=10,73.29075121
+1.43,Rix & Stokoe (1991) - average,64.84472738
+1.43,Rix & Stokoe (1991) - upper bound,97.26709106
+1.43,Rix & Stokoe (1991) - lower bound,32.42236369
+1.44,Hegazy & Mayne (1995) - 1,43.74549644
+1.44,Hegazy & Mayne (1995) - 2,94.21599393
+1.44,Baldi et al. (1989) Ticino sand OCR=1,57.38520896
+1.44,Baldi et al. (1989) Ticino sand OCR=10,73.60933631
+1.44,Rix & Stokoe (1991) - average,65.11688738
+1.44,Rix & Stokoe (1991) - upper bound,97.67533108
+1.44,Rix & Stokoe (1991) - lower bound,32.55844369
+1.45,Hegazy & Mayne (1995) - 1,43.92794972
+1.45,Hegazy & Mayne (1995) - 2,94.22386539
+1.45,Baldi et al. (1989) Ticino sand OCR=1,57.59981503
+1.45,Baldi et al. (1989) Ticino sand OCR=10,73.88522369
+1.45,Rix & Stokoe (1991) - average,65.35773736
+1.45,Rix & Stokoe (1991) - upper bound,98.03660603
+1.45,Rix & Stokoe (1991) - lower bound,32.67886868
+1.46,Hegazy & Mayne (1995) - 1,44.0357858
+1.46,Hegazy & Mayne (1995) - 2,94.1487684
+1.46,Baldi et al. (1989) Ticino sand OCR=1,57.73932837
+1.46,Baldi et al. (1989) Ticino sand OCR=10,74.06191034
+1.46,Rix & Stokoe (1991) - average,65.52603366
+1.46,Rix & Stokoe (1991) - upper bound,98.28905049
+1.46,Rix & Stokoe (1991) - lower bound,32.76301683
+1.47,Hegazy & Mayne (1995) - 1,44.10547379
+1.47,Hegazy & Mayne (1995) - 2,93.95637677
+1.47,Baldi et al. (1989) Ticino sand OCR=1,57.84038952
+1.47,Baldi et al. (1989) Ticino sand OCR=10,74.18781788
+1.47,Rix & Stokoe (1991) - average,65.65710318
+1.47,Rix & Stokoe (1991) - upper bound,98.48565477
+1.47,Rix & Stokoe (1991) - lower bound,32.82855159
+1.48,Hegazy & Mayne (1995) - 1,44.15001089
+1.48,Hegazy & Mayne (1995) - 2,93.6533493
+1.48,Baldi et al. (1989) Ticino sand OCR=1,57.91603925
+1.48,Baldi et al. (1989) Ticino sand OCR=10,74.28018324
+1.48,Rix & Stokoe (1991) - average,65.76350801
+1.48,Rix & Stokoe (1991) - upper bound,98.64526202
+1.48,Rix & Stokoe (1991) - lower bound,32.88175401
+1.49,Hegazy & Mayne (1995) - 1,44.1667763
+1.49,Hegazy & Mayne (1995) - 2,93.35162321
+1.49,Baldi et al. (1989) Ticino sand OCR=1,57.96362292
+1.49,Baldi et al. (1989) Ticino sand OCR=10,74.33550511
+1.49,Rix & Stokoe (1991) - average,65.84266381
+1.49,Rix & Stokoe (1991) - upper bound,98.76399571
+1.49,Rix & Stokoe (1991) - lower bound,32.9213319
+1.5,Hegazy & Mayne (1995) - 1,44.17396989
+1.5,Hegazy & Mayne (1995) - 2,92.99375395
+1.5,Baldi et al. (1989) Ticino sand OCR=1,58.00140836
+1.5,Baldi et al. (1989) Ticino sand OCR=10,74.37792342
+1.5,Rix & Stokoe (1991) - average,65.91218934
+1.5,Rix & Stokoe (1991) - upper bound,98.86828401
+1.5,Rix & Stokoe (1991) - lower bound,32.95609467
+1.51,Hegazy & Mayne (1995) - 1,44.17340733
+1.51,Hegazy & Mayne (1995) - 2,92.67710641
+1.51,Baldi et al. (1989) Ticino sand OCR=1,58.03121058
+1.51,Baldi et al. (1989) Ticino sand OCR=10,74.4098382
+1.51,Rix & Stokoe (1991) - average,65.97382953
+1.51,Rix & Stokoe (1991) - upper bound,98.96074429
+1.51,Rix & Stokoe (1991) - lower bound,32.98691476
+1.52,Hegazy & Mayne (1995) - 1,44.16602063
+1.52,Hegazy & Mayne (1995) - 2,92.33228526
+1.52,Baldi et al. (1989) Ticino sand OCR=1,58.05395789
+1.52,Baldi et al. (1989) Ticino sand OCR=10,74.43247761
+1.52,Rix & Stokoe (1991) - average,66.02847447
+1.52,Rix & Stokoe (1991) - upper bound,99.04271171
+1.52,Rix & Stokoe (1991) - lower bound,33.01423724
+1.53,Hegazy & Mayne (1995) - 1,44.18508325
+1.53,Hegazy & Mayne (1995) - 2,92.04294461
+1.53,Baldi et al. (1989) Ticino sand OCR=1,58.10315384
+1.53,Baldi et al. (1989) Ticino sand OCR=10,74.49009094
+1.53,Rix & Stokoe (1991) - average,66.10852371
+1.53,Rix & Stokoe (1991) - upper bound,99.16278557
+1.53,Rix & Stokoe (1991) - lower bound,33.05426186
+1.54,Hegazy & Mayne (1995) - 1,44.23227082
+1.54,Hegazy & Mayne (1995) - 2,91.91582262
+1.54,Baldi et al. (1989) Ticino sand OCR=1,58.18052171
+1.54,Baldi et al. (1989) Ticino sand OCR=10,74.58494577
+1.54,Rix & Stokoe (1991) - average,66.21567455
+1.54,Rix & Stokoe (1991) - upper bound,99.32351182
+1.54,Rix & Stokoe (1991) - lower bound,33.10783727
+1.55,Hegazy & Mayne (1995) - 1,44.28813424
+1.55,Hegazy & Mayne (1995) - 2,91.82140072
+1.55,Baldi et al. (1989) Ticino sand OCR=1,58.26649014
+1.55,Baldi et al. (1989) Ticino sand OCR=10,74.6911902
+1.55,Rix & Stokoe (1991) - average,66.3310129
+1.55,Rix & Stokoe (1991) - upper bound,99.49651935
+1.55,Rix & Stokoe (1991) - lower bound,33.16550645
+1.56,Hegazy & Mayne (1995) - 1,44.39223941
+1.56,Hegazy & Mayne (1995) - 2,91.91517664
+1.56,Baldi et al. (1989) Ticino sand OCR=1,58.40093475
+1.56,Baldi et al. (1989) Ticino sand OCR=10,74.86147751
+1.56,Rix & Stokoe (1991) - average,66.49314343
+1.56,Rix & Stokoe (1991) - upper bound,99.73971514
+1.56,Rix & Stokoe (1991) - lower bound,33.24657171
+1.57,Hegazy & Mayne (1995) - 1,44.50745622
+1.57,Hegazy & Mayne (1995) - 2,91.98709104
+1.57,Baldi et al. (1989) Ticino sand OCR=1,58.54644813
+1.57,Baldi et al. (1989) Ticino sand OCR=10,75.04640594
+1.57,Rix & Stokoe (1991) - average,66.66587904
+1.57,Rix & Stokoe (1991) - upper bound,99.99881857
+1.57,Rix & Stokoe (1991) - lower bound,33.33293952
+1.58,Hegazy & Mayne (1995) - 1,44.65638587
+1.58,Hegazy & Mayne (1995) - 2,92.23151565
+1.58,Baldi et al. (1989) Ticino sand OCR=1,58.72579214
+1.58,Baldi et al. (1989) Ticino sand OCR=10,75.27603055
+1.58,Rix & Stokoe (1991) - average,66.87125824
+1.58,Rix & Stokoe (1991) - upper bound,100.3068874
+1.58,Rix & Stokoe (1991) - lower bound,33.43562912
+1.59,Hegazy & Mayne (1995) - 1,44.92331736
+1.59,Hegazy & Mayne (1995) - 2,92.84224361
+1.59,Baldi et al. (1989) Ticino sand OCR=1,59.02377329
+1.59,Baldi et al. (1989) Ticino sand OCR=10,75.66233946
+1.59,Rix & Stokoe (1991) - average,67.19136089
+1.59,Rix & Stokoe (1991) - upper bound,100.7870413
+1.59,Rix & Stokoe (1991) - lower bound,33.59568044
+1.6,Hegazy & Mayne (1995) - 1,45.13322284
+1.6,Hegazy & Mayne (1995) - 2,93.21293823
+1.6,Baldi et al. (1989) Ticino sand OCR=1,59.26413805
+1.6,Baldi et al. (1989) Ticino sand OCR=10,75.97259087
+1.6,Rix & Stokoe (1991) - average,67.45558861
+1.6,Rix & Stokoe (1991) - upper bound,101.1833829
+1.6,Rix & Stokoe (1991) - lower bound,33.7277943
+1.61,Hegazy & Mayne (1995) - 1,45.47638107
+1.61,Hegazy & Mayne (1995) - 2,94.0222851
+1.61,Baldi et al. (1989) Ticino sand OCR=1,59.6381919
+1.61,Baldi et al. (1989) Ticino sand OCR=10,76.45942574
+1.61,Rix & Stokoe (1991) - average,67.84902487
+1.61,Rix & Stokoe (1991) - upper bound,101.7735373
+1.61,Rix & Stokoe (1991) - lower bound,33.92451243
+1.62,Hegazy & Mayne (1995) - 1,45.87250308
+1.62,Hegazy & Mayne (1995) - 2,94.96711817
+1.62,Baldi et al. (1989) Ticino sand OCR=1,60.06492676
+1.62,Baldi et al. (1989) Ticino sand OCR=10,77.01589072
+1.62,Rix & Stokoe (1991) - average,68.29319756
+1.62,Rix & Stokoe (1991) - upper bound,102.4397963
+1.62,Rix & Stokoe (1991) - lower bound,34.14659878
+1.63,Hegazy & Mayne (1995) - 1,46.3675632
+1.63,Hegazy & Mayne (1995) - 2,96.234145
+1.63,Baldi et al. (1989) Ticino sand OCR=1,60.59011822
+1.63,Baldi et al. (1989) Ticino sand OCR=10,77.70248414
+1.63,Rix & Stokoe (1991) - average,68.83222502
+1.63,Rix & Stokoe (1991) - upper bound,103.2483375
+1.63,Rix & Stokoe (1991) - lower bound,34.41611251
+1.64,Hegazy & Mayne (1995) - 1,46.77543737
+1.64,Hegazy & Mayne (1995) - 2,97.19705865
+1.64,Baldi et al. (1989) Ticino sand OCR=1,61.02728676
+1.64,Baldi et al. (1989) Ticino sand OCR=10,78.27287133
+1.64,Rix & Stokoe (1991) - average,69.28593679
+1.64,Rix & Stokoe (1991) - upper bound,103.9289052
+1.64,Rix & Stokoe (1991) - lower bound,34.6429684
+1.65,Hegazy & Mayne (1995) - 1,47.16651658
+1.65,Hegazy & Mayne (1995) - 2,98.03213467
+1.65,Baldi et al. (1989) Ticino sand OCR=1,61.44709381
+1.65,Baldi et al. (1989) Ticino sand OCR=10,78.82037981
+1.65,Rix & Stokoe (1991) - average,69.72265655
+1.65,Rix & Stokoe (1991) - upper bound,104.5839848
+1.65,Rix & Stokoe (1991) - lower bound,34.86132827
+1.66,Hegazy & Mayne (1995) - 1,47.45338894
+1.66,Hegazy & Mayne (1995) - 2,98.45118468
+1.66,Baldi et al. (1989) Ticino sand OCR=1,61.76250577
+1.66,Baldi et al. (1989) Ticino sand OCR=10,79.22998399
+1.66,Rix & Stokoe (1991) - average,70.05850024
+1.66,Rix & Stokoe (1991) - upper bound,105.0877504
+1.66,Rix & Stokoe (1991) - lower bound,35.02925012
+1.67,Hegazy & Mayne (1995) - 1,47.76400329
+1.67,Hegazy & Mayne (1995) - 2,98.97037725
+1.67,Baldi et al. (1989) Ticino sand OCR=1,62.10126409
+1.67,Baldi et al. (1989) Ticino sand OCR=10,79.67047497
+1.67,Rix & Stokoe (1991) - average,70.41671382
+1.67,Rix & Stokoe (1991) - upper bound,105.6250707
+1.67,Rix & Stokoe (1991) - lower bound,35.20835691
+1.68,Hegazy & Mayne (1995) - 1,47.92584543
+1.68,Hegazy & Mayne (1995) - 2,98.95043909
+1.68,Baldi et al. (1989) Ticino sand OCR=1,62.29164372
+1.68,Baldi et al. (1989) Ticino sand OCR=10,79.91489813
+1.68,Rix & Stokoe (1991) - average,70.63178227
+1.68,Rix & Stokoe (1991) - upper bound,105.9476734
+1.68,Rix & Stokoe (1991) - lower bound,35.31589114
+1.69,Hegazy & Mayne (1995) - 1,48.06653792
+1.69,Hegazy & Mayne (1995) - 2,98.98765546
+1.69,Baldi et al. (1989) Ticino sand OCR=1,62.46083967
+1.69,Baldi et al. (1989) Ticino sand OCR=10,80.13134639
+1.69,Rix & Stokoe (1991) - average,70.82633775
+1.69,Rix & Stokoe (1991) - upper bound,106.2395066
+1.69,Rix & Stokoe (1991) - lower bound,35.41316887
+1.7,Hegazy & Mayne (1995) - 1,48.13864716
+1.7,Hegazy & Mayne (1995) - 2,98.78987219
+1.7,Baldi et al. (1989) Ticino sand OCR=1,62.5616605
+1.7,Baldi et al. (1989) Ticino sand OCR=10,80.25745422
+1.7,Rix & Stokoe (1991) - average,70.95488286
+1.7,Rix & Stokoe (1991) - upper bound,106.4323243
+1.7,Rix & Stokoe (1991) - lower bound,35.47744143
+1.71,Hegazy & Mayne (1995) - 1,48.22160256
+1.71,Hegazy & Mayne (1995) - 2,98.55953616
+1.71,Baldi et al. (1989) Ticino sand OCR=1,62.67316191
+1.71,Baldi et al. (1989) Ticino sand OCR=10,80.39770165
+1.71,Rix & Stokoe (1991) - average,71.09361929
+1.71,Rix & Stokoe (1991) - upper bound,106.6404289
+1.71,Rix & Stokoe (1991) - lower bound,35.54680965
+1.72,Hegazy & Mayne (1995) - 1,48.24249863
+1.72,Hegazy & Mayne (1995) - 2,98.22904219
+1.72,Baldi et al. (1989) Ticino sand OCR=1,62.72276517
+1.72,Baldi et al. (1989) Ticino sand OCR=10,80.45617927
+1.72,Rix & Stokoe (1991) - average,71.1725502
+1.72,Rix & Stokoe (1991) - upper bound,106.7588253
+1.72,Rix & Stokoe (1991) - lower bound,35.5862751
+1.73,Hegazy & Mayne (1995) - 1,48.23992195
+1.73,Hegazy & Mayne (1995) - 2,97.83060638
+1.73,Baldi et al. (1989) Ticino sand OCR=1,62.74884921
+1.73,Baldi et al. (1989) Ticino sand OCR=10,80.4836123
+1.73,Rix & Stokoe (1991) - average,71.22865586
+1.73,Rix & Stokoe (1991) - upper bound,106.8429838
+1.73,Rix & Stokoe (1991) - lower bound,35.61432793
+1.74,Hegazy & Mayne (1995) - 1,48.23462345
+1.74,Hegazy & Mayne (1995) - 2,97.46903055
+1.74,Baldi et al. (1989) Ticino sand OCR=1,62.77206594
+1.74,Baldi et al. (1989) Ticino sand OCR=10,80.50729261
+1.74,Rix & Stokoe (1991) - average,71.28184888
+1.74,Rix & Stokoe (1991) - upper bound,106.9227733
+1.74,Rix & Stokoe (1991) - lower bound,35.64092444
+1.75,Hegazy & Mayne (1995) - 1,48.24829567
+1.75,Hegazy & Mayne (1995) - 2,97.17162706
+1.75,Baldi et al. (1989) Ticino sand OCR=1,62.81404323
+1.75,Baldi et al. (1989) Ticino sand OCR=10,80.55579345
+1.75,Rix & Stokoe (1991) - average,71.35301306
+1.75,Rix & Stokoe (1991) - upper bound,107.0295196
+1.75,Rix & Stokoe (1991) - lower bound,35.67650653
+1.76,Hegazy & Mayne (1995) - 1,48.29642895
+1.76,Hegazy & Mayne (1995) - 2,96.99705812
+1.76,Baldi et al. (1989) Ticino sand OCR=1,62.89025323
+1.76,Baldi et al. (1989) Ticino sand OCR=10,80.64954902
+1.76,Rix & Stokoe (1991) - average,71.4571123
+1.76,Rix & Stokoe (1991) - upper bound,107.1856684
+1.76,Rix & Stokoe (1991) - lower bound,35.72855615
+1.77,Hegazy & Mayne (1995) - 1,48.3769792
+1.77,Hegazy & Mayne (1995) - 2,96.94766036
+1.77,Baldi et al. (1989) Ticino sand OCR=1,62.99868082
+1.77,Baldi et al. (1989) Ticino sand OCR=10,80.7858903
+1.77,Rix & Stokoe (1991) - average,71.59222552
+1.77,Rix & Stokoe (1991) - upper bound,107.3883383
+1.77,Rix & Stokoe (1991) - lower bound,35.79611276
+1.78,Hegazy & Mayne (1995) - 1,48.47592597
+1.78,Hegazy & Mayne (1995) - 2,96.9952911
+1.78,Baldi et al. (1989) Ticino sand OCR=1,63.12535036
+1.78,Baldi et al. (1989) Ticino sand OCR=10,80.94635118
+1.78,Rix & Stokoe (1991) - average,71.74486691
+1.78,Rix & Stokoe (1991) - upper bound,107.6173004
+1.78,Rix & Stokoe (1991) - lower bound,35.87243346
+1.79,Hegazy & Mayne (1995) - 1,48.58785629
+1.79,Hegazy & Mayne (1995) - 2,97.14420864
+1.79,Baldi et al. (1989) Ticino sand OCR=1,63.26486313
+1.79,Baldi et al. (1989) Ticino sand OCR=10,81.12379823
+1.79,Rix & Stokoe (1991) - average,71.90982741
+1.79,Rix & Stokoe (1991) - upper bound,107.8647411
+1.79,Rix & Stokoe (1991) - lower bound,35.9549137
+1.8,Hegazy & Mayne (1995) - 1,48.73736169
+1.8,Hegazy & Mayne (1995) - 2,97.41756321
+1.8,Baldi et al. (1989) Ticino sand OCR=1,63.44173353
+1.8,Baldi et al. (1989) Ticino sand OCR=10,81.35061251
+1.8,Rix & Stokoe (1991) - average,72.11079864
+1.8,Rix & Stokoe (1991) - upper bound,108.166198
+1.8,Rix & Stokoe (1991) - lower bound,36.05539932
+1.81,Hegazy & Mayne (1995) - 1,48.97348323
+1.81,Hegazy & Mayne (1995) - 2,97.98748158
+1.81,Baldi et al. (1989) Ticino sand OCR=1,63.70479279
+1.81,Baldi et al. (1989) Ticino sand OCR=10,81.69129966
+1.81,Rix & Stokoe (1991) - average,72.39495699
+1.81,Rix & Stokoe (1991) - upper bound,108.5924355
+1.81,Rix & Stokoe (1991) - lower bound,36.1974785
+1.82,Hegazy & Mayne (1995) - 1,49.24882524
+1.82,Hegazy & Mayne (1995) - 2,98.56613119
+1.82,Baldi et al. (1989) Ticino sand OCR=1,64.0066921
+1.82,Baldi et al. (1989) Ticino sand OCR=10,82.083321
+1.82,Rix & Stokoe (1991) - average,72.71652702
+1.82,Rix & Stokoe (1991) - upper bound,109.0747905
+1.82,Rix & Stokoe (1991) - lower bound,36.35826351
+1.83,Hegazy & Mayne (1995) - 1,49.62890014
+1.83,Hegazy & Mayne (1995) - 2,99.56000096
+1.83,Baldi et al. (1989) Ticino sand OCR=1,64.41245937
+1.83,Baldi et al. (1989) Ticino sand OCR=10,82.61260106
+1.83,Rix & Stokoe (1991) - average,73.13824828
+1.83,Rix & Stokoe (1991) - upper bound,109.7073724
+1.83,Rix & Stokoe (1991) - lower bound,36.56912414
+1.84,Hegazy & Mayne (1995) - 1,50.14545834
+1.84,Hegazy & Mayne (1995) - 2,100.9184498
+1.84,Baldi et al. (1989) Ticino sand OCR=1,64.95317136
+1.84,Baldi et al. (1989) Ticino sand OCR=10,83.32025013
+1.84,Rix & Stokoe (1991) - average,73.68993319
+1.84,Rix & Stokoe (1991) - upper bound,110.5348998
+1.84,Rix & Stokoe (1991) - lower bound,36.8449666
+1.85,Hegazy & Mayne (1995) - 1,50.67598974
+1.85,Hegazy & Mayne (1995) - 2,102.2888309
+1.85,Baldi et al. (1989) Ticino sand OCR=1,65.50678077
+1.85,Baldi et al. (1989) Ticino sand OCR=10,84.0450454
+1.85,Rix & Stokoe (1991) - average,74.25366923
+1.85,Rix & Stokoe (1991) - upper bound,111.3805038
+1.85,Rix & Stokoe (1991) - lower bound,37.12683462
+1.86,Hegazy & Mayne (1995) - 1,51.20156212
+1.86,Hegazy & Mayne (1995) - 2,103.6948979
+1.86,Baldi et al. (1989) Ticino sand OCR=1,66.05451154
+1.86,Baldi et al. (1989) Ticino sand OCR=10,84.76217441
+1.86,Rix & Stokoe (1991) - average,74.81135146
+1.86,Rix & Stokoe (1991) - upper bound,112.2170272
+1.86,Rix & Stokoe (1991) - lower bound,37.40567573
+1.87,Hegazy & Mayne (1995) - 1,51.70437303
+1.87,Hegazy & Mayne (1995) - 2,104.8342196
+1.87,Baldi et al. (1989) Ticino sand OCR=1,66.5788497
+1.87,Baldi et al. (1989) Ticino sand OCR=10,85.44847663
+1.87,Rix & Stokoe (1991) - average,75.34614963
+1.87,Rix & Stokoe (1991) - upper bound,113.0192244
+1.87,Rix & Stokoe (1991) - lower bound,37.67307482
+1.88,Hegazy & Mayne (1995) - 1,52.10164004
+1.88,Hegazy & Mayne (1995) - 2,105.585166
+1.88,Baldi et al. (1989) Ticino sand OCR=1,66.99842003
+1.88,Baldi et al. (1989) Ticino sand OCR=10,85.99633533
+1.88,Rix & Stokoe (1991) - average,75.77988477
+1.88,Rix & Stokoe (1991) - upper bound,113.6698272
+1.88,Rix & Stokoe (1991) - lower bound,37.88994238
+1.89,Hegazy & Mayne (1995) - 1,52.49358326
+1.89,Hegazy & Mayne (1995) - 2,106.2459259
+1.89,Baldi et al. (1989) Ticino sand OCR=1,67.41224623
+1.89,Baldi et al. (1989) Ticino sand OCR=10,86.53665098
+1.89,Rix & Stokoe (1991) - average,76.20789413
+1.89,Rix & Stokoe (1991) - upper bound,114.3118412
+1.89,Rix & Stokoe (1991) - lower bound,38.10394707
+1.9,Hegazy & Mayne (1995) - 1,52.78290295
+1.9,Hegazy & Mayne (1995) - 2,106.5686478
+1.9,Baldi et al. (1989) Ticino sand OCR=1,67.72476185
+1.9,Baldi et al. (1989) Ticino sand OCR=10,86.94303337
+1.9,Rix & Stokoe (1991) - average,76.53838597
+1.9,Rix & Stokoe (1991) - upper bound,114.807579
+1.9,Rix & Stokoe (1991) - lower bound,38.26919299
+1.91,Hegazy & Mayne (1995) - 1,52.92750588
+1.91,Hegazy & Mayne (1995) - 2,106.512062
+1.91,Baldi et al. (1989) Ticino sand OCR=1,67.89488261
+1.91,Baldi et al. (1989) Ticino sand OCR=10,87.16112477
+1.91,Rix & Stokoe (1991) - average,76.73197915
+1.91,Rix & Stokoe (1991) - upper bound,115.0979687
+1.91,Rix & Stokoe (1991) - lower bound,38.36598957
+1.92,Hegazy & Mayne (1995) - 1,53.03507466
+1.92,Hegazy & Mayne (1995) - 2,106.4443164
+1.92,Baldi et al. (1989) Ticino sand OCR=1,68.02851623
+1.92,Baldi et al. (1989) Ticino sand OCR=10,87.33098138
+1.92,Rix & Stokoe (1991) - average,76.89043725
+1.92,Rix & Stokoe (1991) - upper bound,115.3356559
+1.92,Rix & Stokoe (1991) - lower bound,38.44521863
+1.93,Hegazy & Mayne (1995) - 1,53.08352827
+1.93,Hegazy & Mayne (1995) - 2,105.9900017
+1.93,Baldi et al. (1989) Ticino sand OCR=1,68.1039755
+1.93,Baldi et al. (1989) Ticino sand OCR=10,87.42392672
+1.93,Rix & Stokoe (1991) - average,76.99290929
+1.93,Rix & Stokoe (1991) - upper bound,115.4893639
+1.93,Rix & Stokoe (1991) - lower bound,38.49645465
+1.94,Hegazy & Mayne (1995) - 1,53.12643175
+1.94,Hegazy & Mayne (1995) - 2,105.6968713
+1.94,Baldi et al. (1989) Ticino sand OCR=1,68.17387628
+1.94,Baldi et al. (1989) Ticino sand OCR=10,87.50954556
+1.94,Rix & Stokoe (1991) - average,77.08993919
+1.94,Rix & Stokoe (1991) - upper bound,115.6349088
+1.94,Rix & Stokoe (1991) - lower bound,38.5449696
+1.95,Hegazy & Mayne (1995) - 1,53.04331672
+1.95,Hegazy & Mayne (1995) - 2,105.0756484
+1.95,Baldi et al. (1989) Ticino sand OCR=1,68.11976225
+1.95,Baldi et al. (1989) Ticino sand OCR=10,87.43121225
+1.95,Rix & Stokoe (1991) - average,77.06761465
+1.95,Rix & Stokoe (1991) - upper bound,115.601422
+1.95,Rix & Stokoe (1991) - lower bound,38.53380732
+1.96,Hegazy & Mayne (1995) - 1,53.0498841
+1.96,Hegazy & Mayne (1995) - 2,104.7347165
+1.96,Baldi et al. (1989) Ticino sand OCR=1,68.15367875
+1.96,Baldi et al. (1989) Ticino sand OCR=10,87.4693109
+1.96,Rix & Stokoe (1991) - average,77.12980037
+1.96,Rix & Stokoe (1991) - upper bound,115.6947006
+1.96,Rix & Stokoe (1991) - lower bound,38.56490018
+1.97,Hegazy & Mayne (1995) - 1,53.06099161
+1.97,Hegazy & Mayne (1995) - 2,104.4266214
+1.97,Baldi et al. (1989) Ticino sand OCR=1,68.19194017
+1.97,Baldi et al. (1989) Ticino sand OCR=10,87.51318231
+1.97,Rix & Stokoe (1991) - average,77.19605065
+1.97,Rix & Stokoe (1991) - upper bound,115.794076
+1.97,Rix & Stokoe (1991) - lower bound,38.59802533
+1.98,Hegazy & Mayne (1995) - 1,53.12239012
+1.98,Hegazy & Mayne (1995) - 2,104.3511497
+1.98,Baldi et al. (1989) Ticino sand OCR=1,68.27959317
+1.98,Baldi et al. (1989) Ticino sand OCR=10,87.62237552
+1.98,Rix & Stokoe (1991) - average,77.30973016
+1.98,Rix & Stokoe (1991) - upper bound,115.9645952
+1.98,Rix & Stokoe (1991) - lower bound,38.65486508
+1.99,Hegazy & Mayne (1995) - 1,53.19295661
+1.99,Hegazy & Mayne (1995) - 2,104.2942679
+1.99,Baldi et al. (1989) Ticino sand OCR=1,68.37617724
+1.99,Baldi et al. (1989) Ticino sand OCR=10,87.74339607
+1.99,Rix & Stokoe (1991) - average,77.43191827
+1.99,Rix & Stokoe (1991) - upper bound,116.1478774
+1.99,Rix & Stokoe (1991) - lower bound,38.71595914
+2.0,Hegazy & Mayne (1995) - 1,53.33470853
+2.0,Hegazy & Mayne (1995) - 2,104.4996373
+2.0,Baldi et al. (1989) Ticino sand OCR=1,68.54274382
+2.0,Baldi et al. (1989) Ticino sand OCR=10,87.95694768
+2.0,Rix & Stokoe (1991) - average,77.62139677
+2.0,Rix & Stokoe (1991) - upper bound,116.4320952
+2.0,Rix & Stokoe (1991) - lower bound,38.81069838
+2.01,Hegazy & Mayne (1995) - 1,53.52993442
+2.01,Hegazy & Mayne (1995) - 2,104.8907514
+2.01,Baldi et al. (1989) Ticino sand OCR=1,68.76182211
+2.01,Baldi et al. (1989) Ticino sand OCR=10,88.23993371
+2.01,Rix & Stokoe (1991) - average,77.86135182
+2.01,Rix & Stokoe (1991) - upper bound,116.7920277
+2.01,Rix & Stokoe (1991) - lower bound,38.93067591
+2.02,Hegazy & Mayne (1995) - 1,53.75923852
+2.02,Hegazy & Mayne (1995) - 2,105.3305354
+2.02,Baldi et al. (1989) Ticino sand OCR=1,69.01427105
+2.02,Baldi et al. (1989) Ticino sand OCR=10,88.56705362
+2.02,Rix & Stokoe (1991) - average,78.13334701
+2.02,Rix & Stokoe (1991) - upper bound,117.2000205
+2.02,Rix & Stokoe (1991) - lower bound,39.0666735
+2.03,Hegazy & Mayne (1995) - 1,54.1920887
+2.03,Hegazy & Mayne (1995) - 2,106.4278516
+2.03,Baldi et al. (1989) Ticino sand OCR=1,69.46646145
+2.03,Baldi et al. (1989) Ticino sand OCR=10,89.15827521
+2.03,Rix & Stokoe (1991) - average,78.59741291
+2.03,Rix & Stokoe (1991) - upper bound,117.8961194
+2.03,Rix & Stokoe (1991) - lower bound,39.29870646
+2.04,Hegazy & Mayne (1995) - 1,54.58874294
+2.04,Hegazy & Mayne (1995) - 2,107.3986809
+2.04,Baldi et al. (1989) Ticino sand OCR=1,69.88257992
+2.04,Baldi et al. (1989) Ticino sand OCR=10,89.70185969
+2.04,Rix & Stokoe (1991) - average,79.02656831
+2.04,Rix & Stokoe (1991) - upper bound,118.5398525
+2.04,Rix & Stokoe (1991) - lower bound,39.51328416
+2.05,Hegazy & Mayne (1995) - 1,55.02267599
+2.05,Hegazy & Mayne (1995) - 2,108.3816649
+2.05,Baldi et al. (1989) Ticino sand OCR=1,70.33471363
+2.05,Baldi et al. (1989) Ticino sand OCR=10,90.29312344
+2.05,Rix & Stokoe (1991) - average,79.49013131
+2.05,Rix & Stokoe (1991) - upper bound,119.235197
+2.05,Rix & Stokoe (1991) - lower bound,39.74506565
+2.06,Hegazy & Mayne (1995) - 1,55.36097588
+2.06,Hegazy & Mayne (1995) - 2,109.0678784
+2.06,Baldi et al. (1989) Ticino sand OCR=1,70.69276162
+2.06,Baldi et al. (1989) Ticino sand OCR=10,90.76000974
+2.06,Rix & Stokoe (1991) - average,79.86311565
+2.06,Rix & Stokoe (1991) - upper bound,119.7946735
+2.06,Rix & Stokoe (1991) - lower bound,39.93155783
+2.07,Hegazy & Mayne (1995) - 1,55.85899721
+2.07,Hegazy & Mayne (1995) - 2,110.1601763
+2.07,Baldi et al. (1989) Ticino sand OCR=1,71.20645376
+2.07,Baldi et al. (1989) Ticino sand OCR=10,91.4328066
+2.07,Rix & Stokoe (1991) - average,80.38534861
+2.07,Rix & Stokoe (1991) - upper bound,120.5780229
+2.07,Rix & Stokoe (1991) - lower bound,40.1926743
+2.08,Hegazy & Mayne (1995) - 1,56.18883969
+2.08,Hegazy & Mayne (1995) - 2,110.7793436
+2.08,Baldi et al. (1989) Ticino sand OCR=1,71.55541178
+2.08,Baldi et al. (1989) Ticino sand OCR=10,91.88775552
+2.08,Rix & Stokoe (1991) - average,80.74927258
+2.08,Rix & Stokoe (1991) - upper bound,121.1239089
+2.08,Rix & Stokoe (1991) - lower bound,40.37463629
+2.09,Hegazy & Mayne (1995) - 1,56.42650838
+2.09,Hegazy & Mayne (1995) - 2,111.0032947
+2.09,Baldi et al. (1989) Ticino sand OCR=1,71.81422559
+2.09,Baldi et al. (1989) Ticino sand OCR=10,92.2234822
+2.09,Rix & Stokoe (1991) - average,81.02661185
+2.09,Rix & Stokoe (1991) - upper bound,121.5399178
+2.09,Rix & Stokoe (1991) - lower bound,40.51330592
+2.1,Hegazy & Mayne (1995) - 1,56.71124764
+2.1,Hegazy & Mayne (1995) - 2,111.4532462
+2.1,Baldi et al. (1989) Ticino sand OCR=1,72.11871415
+2.1,Baldi et al. (1989) Ticino sand OCR=10,92.61965575
+2.1,Rix & Stokoe (1991) - average,81.34766439
+2.1,Rix & Stokoe (1991) - upper bound,122.0214966
+2.1,Rix & Stokoe (1991) - lower bound,40.67383219
+2.11,Hegazy & Mayne (1995) - 1,56.80057625
+2.11,Hegazy & Mayne (1995) - 2,111.3330583
+2.11,Baldi et al. (1989) Ticino sand OCR=1,72.23272527
+2.11,Baldi et al. (1989) Ticino sand OCR=10,92.76385076
+2.11,Rix & Stokoe (1991) - average,81.48598497
+2.11,Rix & Stokoe (1991) - upper bound,122.2289775
+2.11,Rix & Stokoe (1991) - lower bound,40.74299249
+2.12,Hegazy & Mayne (1995) - 1,56.91155046
+2.12,Hegazy & Mayne (1995) - 2,111.147285
+2.12,Baldi et al. (1989) Ticino sand OCR=1,72.36773215
+2.12,Baldi et al. (1989) Ticino sand OCR=10,92.93583931
+2.12,Rix & Stokoe (1991) - average,81.64436688
+2.12,Rix & Stokoe (1991) - upper bound,122.4665503
+2.12,Rix & Stokoe (1991) - lower bound,40.82218344
+2.13,Hegazy & Mayne (1995) - 1,57.03635469
+2.13,Hegazy & Mayne (1995) - 2,111.0254329
+2.13,Baldi et al. (1989) Ticino sand OCR=1,72.51612002
+2.13,Baldi et al. (1989) Ticino sand OCR=10,93.12554619
+2.13,Rix & Stokoe (1991) - average,81.81551197
+2.13,Rix & Stokoe (1991) - upper bound,122.723268
+2.13,Rix & Stokoe (1991) - lower bound,40.90775599
+2.14,Hegazy & Mayne (1995) - 1,57.10967809
+2.14,Hegazy & Mayne (1995) - 2,110.8468105
+2.14,Baldi et al. (1989) Ticino sand OCR=1,72.61429376
+2.14,Baldi et al. (1989) Ticino sand OCR=10,93.24884039
+2.14,Rix & Stokoe (1991) - average,81.93842383
+2.14,Rix & Stokoe (1991) - upper bound,122.9076357
+2.14,Rix & Stokoe (1991) - lower bound,40.96921191
+2.15,Hegazy & Mayne (1995) - 1,57.17875719
+2.15,Hegazy & Mayne (1995) - 2,110.7142047
+2.15,Baldi et al. (1989) Ticino sand OCR=1,72.7082502
+2.15,Baldi et al. (1989) Ticino sand OCR=10,93.3665739
+2.15,Rix & Stokoe (1991) - average,82.05721251
+2.15,Rix & Stokoe (1991) - upper bound,123.0858188
+2.15,Rix & Stokoe (1991) - lower bound,41.02860626
+2.16,Hegazy & Mayne (1995) - 1,57.31901176
+2.16,Hegazy & Mayne (1995) - 2,110.8317766
+2.16,Baldi et al. (1989) Ticino sand OCR=1,72.87143358
+2.16,Baldi et al. (1989) Ticino sand OCR=10,93.57590089
+2.16,Rix & Stokoe (1991) - average,82.2423443
+2.16,Rix & Stokoe (1991) - upper bound,123.3635164
+2.16,Rix & Stokoe (1991) - lower bound,41.12117215
+2.17,Hegazy & Mayne (1995) - 1,57.43508652
+2.17,Hegazy & Mayne (1995) - 2,110.9030094
+2.17,Baldi et al. (1989) Ticino sand OCR=1,73.0109858
+2.17,Baldi et al. (1989) Ticino sand OCR=10,93.7539829
+2.17,Rix & Stokoe (1991) - average,82.40473751
+2.17,Rix & Stokoe (1991) - upper bound,123.6071063
+2.17,Rix & Stokoe (1991) - lower bound,41.20236876
+2.18,Hegazy & Mayne (1995) - 1,57.60158104
+2.18,Hegazy & Mayne (1995) - 2,111.1397068
+2.18,Baldi et al. (1989) Ticino sand OCR=1,73.19952996
+2.18,Baldi et al. (1989) Ticino sand OCR=10,93.9968882
+2.18,Rix & Stokoe (1991) - average,82.61406938
+2.18,Rix & Stokoe (1991) - upper bound,123.9211041
+2.18,Rix & Stokoe (1991) - lower bound,41.30703469
+2.19,Hegazy & Mayne (1995) - 1,57.77784239
+2.19,Hegazy & Mayne (1995) - 2,111.4444019
+2.19,Baldi et al. (1989) Ticino sand OCR=1,73.39747212
+2.19,Baldi et al. (1989) Ticino sand OCR=10,94.25224083
+2.19,Rix & Stokoe (1991) - average,82.83235135
+2.19,Rix & Stokoe (1991) - upper bound,124.248527
+2.19,Rix & Stokoe (1991) - lower bound,41.41617567
+2.2,Hegazy & Mayne (1995) - 1,58.14658066
+2.2,Hegazy & Mayne (1995) - 2,112.3746773
+2.2,Baldi et al. (1989) Ticino sand OCR=1,73.78242609
+2.2,Baldi et al. (1989) Ticino sand OCR=10,94.75501109
+2.2,Rix & Stokoe (1991) - average,83.22993195
+2.2,Rix & Stokoe (1991) - upper bound,124.8448979
+2.2,Rix & Stokoe (1991) - lower bound,41.61496597
+2.21,Hegazy & Mayne (1995) - 1,58.5149848
+2.21,Hegazy & Mayne (1995) - 2,113.278253
+2.21,Baldi et al. (1989) Ticino sand OCR=1,74.16666964
+2.21,Baldi et al. (1989) Ticino sand OCR=10,95.25688168
+2.21,Rix & Stokoe (1991) - average,83.62667518
+2.21,Rix & Stokoe (1991) - upper bound,125.4400128
+2.21,Rix & Stokoe (1991) - lower bound,41.81333759
+2.22,Hegazy & Mayne (1995) - 1,58.86089504
+2.22,Hegazy & Mayne (1995) - 2,114.0487574
+2.22,Baldi et al. (1989) Ticino sand OCR=1,74.52871899
+2.22,Baldi et al. (1989) Ticino sand OCR=10,95.72942479
+2.22,Rix & Stokoe (1991) - average,84.00199894
+2.22,Rix & Stokoe (1991) - upper bound,126.0029984
+2.22,Rix & Stokoe (1991) - lower bound,42.00099947
+2.23,Hegazy & Mayne (1995) - 1,59.39972867
+2.23,Hegazy & Mayne (1995) - 2,115.4151028
+2.23,Baldi et al. (1989) Ticino sand OCR=1,75.07725494
+2.23,Baldi et al. (1989) Ticino sand OCR=10,96.44878949
+2.23,Rix & Stokoe (1991) - average,84.55576222
+2.23,Rix & Stokoe (1991) - upper bound,126.8336433
+2.23,Rix & Stokoe (1991) - lower bound,42.27788111
+2.24,Hegazy & Mayne (1995) - 1,59.89873961
+2.24,Hegazy & Mayne (1995) - 2,116.5949051
+2.24,Baldi et al. (1989) Ticino sand OCR=1,75.58645872
+2.24,Baldi et al. (1989) Ticino sand OCR=10,97.11618602
+2.24,Rix & Stokoe (1991) - average,85.07155567
+2.24,Rix & Stokoe (1991) - upper bound,127.6073335
+2.24,Rix & Stokoe (1991) - lower bound,42.53577783
+2.25,Hegazy & Mayne (1995) - 1,60.54707363
+2.25,Hegazy & Mayne (1995) - 2,118.3391714
+2.25,Baldi et al. (1989) Ticino sand OCR=1,76.23899241
+2.25,Baldi et al. (1989) Ticino sand OCR=10,97.97339779
+2.25,Rix & Stokoe (1991) - average,85.72408548
+2.25,Rix & Stokoe (1991) - upper bound,128.5861282
+2.25,Rix & Stokoe (1991) - lower bound,42.86204274
+2.26,Hegazy & Mayne (1995) - 1,61.04718888
+2.26,Hegazy & Mayne (1995) - 2,119.4968944
+2.26,Baldi et al. (1989) Ticino sand OCR=1,76.74761858
+2.26,Baldi et al. (1989) Ticino sand OCR=10,98.64020604
+2.26,Rix & Stokoe (1991) - average,86.2386711
+2.26,Rix & Stokoe (1991) - upper bound,129.3580066
+2.26,Rix & Stokoe (1991) - lower bound,43.11933555
+2.27,Hegazy & Mayne (1995) - 1,61.62071591
+2.27,Hegazy & Mayne (1995) - 2,120.7705681
+2.27,Baldi et al. (1989) Ticino sand OCR=1,77.32611036
+2.27,Baldi et al. (1989) Ticino sand OCR=10,99.39960483
+2.27,Rix & Stokoe (1991) - average,86.81966676
+2.27,Rix & Stokoe (1991) - upper bound,130.2295001
+2.27,Rix & Stokoe (1991) - lower bound,43.40983338
+2.28,Hegazy & Mayne (1995) - 1,62.19211802
+2.28,Hegazy & Mayne (1995) - 2,122.0891913
+2.28,Baldi et al. (1989) Ticino sand OCR=1,77.90163616
+2.28,Baldi et al. (1989) Ticino sand OCR=10,100.155176
+2.28,Rix & Stokoe (1991) - average,87.39746231
+2.28,Rix & Stokoe (1991) - upper bound,131.0961935
+2.28,Rix & Stokoe (1991) - lower bound,43.69873116
+2.29,Hegazy & Mayne (1995) - 1,62.57402544
+2.29,Hegazy & Mayne (1995) - 2,122.5476625
+2.29,Baldi et al. (1989) Ticino sand OCR=1,78.29473024
+2.29,Baldi et al. (1989) Ticino sand OCR=10,100.6691984
+2.29,Rix & Stokoe (1991) - average,87.80101354
+2.29,Rix & Stokoe (1991) - upper bound,131.7015203
+2.29,Rix & Stokoe (1991) - lower bound,43.90050677
+2.3,Hegazy & Mayne (1995) - 1,62.84404681
+2.3,Hegazy & Mayne (1995) - 2,122.7461662
+2.3,Baldi et al. (1989) Ticino sand OCR=1,78.58032145
+2.3,Baldi et al. (1989) Ticino sand OCR=10,101.040859
+2.3,Rix & Stokoe (1991) - average,88.10196306
+2.3,Rix & Stokoe (1991) - upper bound,132.1529446
+2.3,Rix & Stokoe (1991) - lower bound,44.05098153
+2.31,Hegazy & Mayne (1995) - 1,63.11194864
+2.31,Hegazy & Mayne (1995) - 2,123.0529992
+2.31,Baldi et al. (1989) Ticino sand OCR=1,78.86369345
+2.31,Baldi et al. (1989) Ticino sand OCR=10,101.4096011
+2.31,Rix & Stokoe (1991) - average,88.40071157
+2.31,Rix & Stokoe (1991) - upper bound,132.6010674
+2.31,Rix & Stokoe (1991) - lower bound,44.20035579
+2.32,Hegazy & Mayne (1995) - 1,63.35447387
+2.32,Hegazy & Mayne (1995) - 2,123.4192385
+2.32,Baldi et al. (1989) Ticino sand OCR=1,79.12260738
+2.32,Baldi et al. (1989) Ticino sand OCR=10,101.745964
+2.32,Rix & Stokoe (1991) - average,88.67607381
+2.32,Rix & Stokoe (1991) - upper bound,133.0141107
+2.32,Rix & Stokoe (1991) - lower bound,44.33803691
+2.33,Hegazy & Mayne (1995) - 1,63.54682841
+2.33,Hegazy & Mayne (1995) - 2,123.5745649
+2.33,Baldi et al. (1989) Ticino sand OCR=1,79.33339963
+2.33,Baldi et al. (1989) Ticino sand OCR=10,102.0185966
+2.33,Rix & Stokoe (1991) - average,88.90551925
+2.33,Rix & Stokoe (1991) - upper bound,133.3582789
+2.33,Rix & Stokoe (1991) - lower bound,44.45275963
+2.34,Hegazy & Mayne (1995) - 1,63.75239873
+2.34,Hegazy & Mayne (1995) - 2,123.9430798
+2.34,Baldi et al. (1989) Ticino sand OCR=1,79.55671069
+2.34,Baldi et al. (1989) Ticino sand OCR=10,102.3078285
+2.34,Rix & Stokoe (1991) - average,89.14682532
+2.34,Rix & Stokoe (1991) - upper bound,133.720238
+2.34,Rix & Stokoe (1991) - lower bound,44.57341266
+2.35,Hegazy & Mayne (1995) - 1,63.96673667
+2.35,Hegazy & Mayne (1995) - 2,124.5045643
+2.35,Baldi et al. (1989) Ticino sand OCR=1,79.78827598
+2.35,Baldi et al. (1989) Ticino sand OCR=10,102.6080109
+2.35,Rix & Stokoe (1991) - average,89.395927
+2.35,Rix & Stokoe (1991) - upper bound,134.0938905
+2.35,Rix & Stokoe (1991) - lower bound,44.6979635
+2.36,Hegazy & Mayne (1995) - 1,64.19845971
+2.36,Baldi et al. (1989) Ticino sand OCR=1,80.03631285
+2.36,Baldi et al. (1989) Ticino sand OCR=10,102.9300311
+2.36,Rix & Stokoe (1991) - average,89.66064733
+2.36,Rix & Stokoe (1991) - upper bound,134.490971
+2.36,Rix & Stokoe (1991) - lower bound,44.83032367
+2.37,Hegazy & Mayne (1995) - 1,64.51656085
+2.37,Baldi et al. (1989) Ticino sand OCR=1,80.36662473
+2.37,Baldi et al. (1989) Ticino sand OCR=10,103.3610728
+2.37,Rix & Stokoe (1991) - average,90.00362947
+2.37,Rix & Stokoe (1991) - upper bound,135.0054442
+2.37,Rix & Stokoe (1991) - lower bound,45.00181474
+2.38,Hegazy & Mayne (1995) - 1,64.8560023
+2.38,Baldi et al. (1989) Ticino sand OCR=1,80.7170256
+2.38,Baldi et al. (1989) Ticino sand OCR=10,103.8187589
+2.38,Rix & Stokoe (1991) - average,90.36562462
+2.38,Rix & Stokoe (1991) - upper bound,135.5484369
+2.38,Rix & Stokoe (1991) - lower bound,45.18281231
+2.39,Hegazy & Mayne (1995) - 1,65.41007507
+2.39,Baldi et al. (1989) Ticino sand OCR=1,81.27145677
+2.39,Baldi et al. (1989) Ticino sand OCR=10,104.5468416
+2.39,Rix & Stokoe (1991) - average,90.92157525
+2.39,Rix & Stokoe (1991) - upper bound,136.3823629
+2.39,Rix & Stokoe (1991) - lower bound,45.46078762
+2.4,Hegazy & Mayne (1995) - 1,66.11167865
+2.4,Baldi et al. (1989) Ticino sand OCR=1,81.96520538
+2.4,Baldi et al. (1989) Ticino sand OCR=10,105.4596625
+2.4,Rix & Stokoe (1991) - average,91.60958995
+2.4,Rix & Stokoe (1991) - upper bound,137.4143849
+2.4,Rix & Stokoe (1991) - lower bound,45.80479497
+2.41,Hegazy & Mayne (1995) - 1,67.0314385
+2.41,Baldi et al. (1989) Ticino sand OCR=1,82.86425201
+2.41,Baldi et al. (1989) Ticino sand OCR=10,106.6448024
+2.41,Rix & Stokoe (1991) - average,92.49190242
+2.41,Rix & Stokoe (1991) - upper bound,138.7378536
+2.41,Rix & Stokoe (1991) - lower bound,46.24595121
+2.42,Hegazy & Mayne (1995) - 1,67.99811489
+2.42,Baldi et al. (1989) Ticino sand OCR=1,83.8052545
+2.42,Baldi et al. (1989) Ticino sand OCR=10,107.8858509
+2.42,Rix & Stokoe (1991) - average,93.41300376
+2.42,Rix & Stokoe (1991) - upper bound,140.1195056
+2.42,Rix & Stokoe (1991) - lower bound,46.70650188
