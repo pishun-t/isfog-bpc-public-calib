@@ -14,8 +14,7 @@
 # Import packages
 import numpy as np
 import math
-import matplotlib.pyplot as plt
-import pandas as pd
+# import pandas as pd
 #
 def fun_m02_txc(material_parameters, initial_conditions):
     """
