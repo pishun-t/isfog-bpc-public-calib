@@ -1,31 +1,4 @@
 import streamlit as st
-
-st.set_page_config(
-    page_title="M02 calibration",
-    page_icon=":bar_chart:", # bar chart emoji
-)
-
-st.write("# Welcome to the IC-MAGE-M02 calibration web-app")
-
-st.markdown(
-    """
-    This web-app uses the TU Darmstadt blind prediction contest winning method to
-    illustrate the calibration of the IC-MAGE-M02 model parameters.
-    The model is non-linear elastic with a Mohr-Coulomb based plastic yield surface dependent on 
-    Been & Jefferies (1985) sand state parameter.
-    The app can take you through the calibration of parameters from
-     in-situ information, laboratory data, the single element response, all the way to 
-      the eventual effect on the lateral monotonic pile response.
-"""
-)
-
-
-
-
-
-
-
-
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
@@ -35,17 +8,6 @@ from elastic import fun_ICG3S_R
 from plastic import fun_critical_state_line
 from m02integrate import fun_m02_txc
 import os
-
-
-
-
-
-
-
-
-
-
-
 
 ##### ----- DATA SOURCES ----- #####
 data_folder = r"data"
