@@ -59,7 +59,7 @@ df_Gnorm_lab = pd.read_csv(os.path.join(data_folder, 'lab_mono_Gnorm_Ed_long.csv
 df_Gnorm_lab = df_Gnorm_lab.sort_values(by=['test_id', 'Ed_prc'])
 df_csl_end = pd.read_csv(os.path.join(data_folder, 'lab_csl_endpoints.csv'))
 df_csl_ep_dtxc = pd.read_csv(os.path.join(data_folder, 'lab_csl_dtxc_ep_long.csv'))
-
+df_plastic = pd.read_csv(os.path.join(data_folder, 'lab_mono_dtxc_plast_clean.csv'))
 
 ##### ----- Basic properties - constants ----- #####
 pit_depth = 2.6 # metres
@@ -421,23 +421,34 @@ fig_CSL.update_layout(
 )
 col1.plotly_chart(fig_CSL, use_container_width=True)
 
+st.markdown("---")
+col1, col2 = st.columns(2)
+col1.header('Plasticity - peak strength')
 
-# st.markdown("---")
+e_peaks = df_plastic['e_peak'].to_numpy()
+Mcs = calib_params['mcs']
+Mpeak = df_plastic['Mpeak'].to_numpy()
+Mpeaks_Mcs = Mpeak - Mcs
+p_peaks_assumed =  3 * df_info.loc[df_info.test_id.str.contains('CD'), "p0_kPa"].to_numpy() / (3-Mpeak)
 
-# # # second section
-# # st.header('Non-linear elasticity - bulk')
-# # st.write('Default calibration only')
+# plot peak strength
+psi_peaks = e_peaks - fun_critical_state_line(p_peaks_assumed, calib_params['e_csref'], sel_lambda_cs, sel_csi_cs)
 
-# # # fourth section
-# # st.header('Plasticity - Peak strength')
+fig_peak = px.scatter(
+    x=psi_peaks, y=Mpeaks_Mcs, color=df_plastic['test_id'],
+    title="Peak strength",
+    labels={'x': 'psi State parameter', 'y': 'M - Mcs'},
+)
+x_plot_psi = np.linspace(np.min(psi_peaks), 0.0, num=2)
+y_plot = -sel_k1 * x_plot_psi
+fig_peak.add_trace(
+    go.Scatter(name=f"Selected peak strength",
+        x=x_plot_psi,
+        y=y_plot,
+        line=dict(color='red', width=3),
+    )
+)
+col1.plotly_chart(fig_peak, use_container_width=True)
 
-# # # fifth section
-# # st.header('Plasticity - post-peak dilatancy')
-
-# # # sixth section
-# # st.header('Monotonic single element response')
-
-# # # load MathJax
-# # with open("load-mathjax.js", "r") as f:
-# #     js = f.read()
-# #     st.components.v1.html(f"<script>{js}</script>", height=0)
+# plot plastic dilatancy
+col2.header('Plasticity - post-peak dilatancy')
