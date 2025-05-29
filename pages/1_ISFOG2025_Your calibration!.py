@@ -1,12 +1,12 @@
 import streamlit as st
+from streamlit_gsheets import GSheetsConnection
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 import pandas as pd
 import os
-from insitu import fun_sigeff_v, fun_Gmax_with_depth
+from insitu import fun_Gmax_with_depth
 from elastic import fun_ICG3S_R
-import pickle
 from metamodel import mm_output
 
 st.set_page_config(
@@ -97,7 +97,7 @@ fig_Gmax = px.line(
 Gmax_with_depth_calc = fun_Gmax_with_depth(depths, pit_e0, sel_Gref_MPa, K0, unit_weight)
 fig_Gmax.add_trace(
     go.Scatter(
-        x=Gmax_with_depth_calc, y=depths, mode='lines', name=rf'Your selected G_max',
+        x=Gmax_with_depth_calc, y=depths, mode='lines', name='Your selected G_max',
         line=dict(color='red', width=5, dash='dash')
     )
 )
@@ -163,7 +163,7 @@ Ed_plot = np.logspace(-4,-1,num=200)
 # add horizontal line at sel_Gref_MPa
 fig_Gnorm.add_trace(
     go.Scatter(
-        x=Ed_plot, y=np.full_like(Ed_plot, sel_Gref_MPa), mode='lines', name=rf'Your Gref',
+        x=Ed_plot, y=np.full_like(Ed_plot, sel_Gref_MPa), mode='lines', name='Your Gref',
         line=dict(color='black', width=2, dash='dashdot')
     )
 )
@@ -239,7 +239,6 @@ st.write(f"Your best parameters are: $G_{{ref}}={sel_Gref_MPa:.1f}$ MPa, $log10a
 # Add name input field
 submission_name = st.text_input("Please enter your unique name (doesn't have to be real):", "")
 
-from streamlit_gsheets import GSheetsConnection
 
 conn = st.connection("gsheets", type=GSheetsConnection)
 df = conn.read(usecols=[0, 1, 2, 3])
