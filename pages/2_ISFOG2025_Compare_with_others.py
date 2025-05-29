@@ -8,7 +8,7 @@ import os
 from metamodel import mm_output
 
 conn = st.connection("gsheets", type=GSheetsConnection)
-df_saved_submissions = conn.read(usecols=[0, 1, 2, 3])
+df_saved_submissions = conn.read(worksheet="ISFOG2025_Compare_with_others", usecols=[0, 1, 2, 3])
 
 ### --- Data sources --- ###
 data_folder = r"data"

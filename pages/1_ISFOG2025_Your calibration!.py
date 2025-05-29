@@ -241,7 +241,7 @@ submission_name = st.text_input("Please enter your unique name (doesn't have to 
 
 
 conn = st.connection("gsheets", type=GSheetsConnection)
-df = conn.read(usecols=[0, 1, 2, 3])
+df = conn.read(worksheet="ISFOG2025_Compare_with_others", usecols=[0, 1, 2, 3])
 
 df_new = pd.concat([
     df,
