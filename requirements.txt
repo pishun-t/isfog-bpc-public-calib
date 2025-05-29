@@ -2,3 +2,4 @@ plotly
 numpy
 pandas
 openturns
+st-gsheets-connection
