@@ -27,11 +27,6 @@ st.markdown(
     """
 )
 
-
-
-
-
-
 # ##### ----- DATA SOURCES ----- #####
 # data_folder = r"data"
 # df_cpt_raw = pd.read_csv(os.path.join(data_folder, 'cpt_raw_data_long.csv'))

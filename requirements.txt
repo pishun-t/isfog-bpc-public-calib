@@ -1,3 +1,5 @@
 plotly
 numpy
 pandas
+openturns
+pickle
