@@ -1,8 +1,10 @@
 import pickle
 import numpy as np
+import os
 
 ### --- Metamodel --- ###
-with open(r"pce_model_fitted_2_param.pkl", 'rb') as f:
+model_folder = r"metamodel"
+with open(os.path.join(model_folder, r"pce_model_fitted_2_param.pkl"), 'rb') as f:
     pce_model_2_param = pickle.load(f)
 
 def mm_output(ux_mm, Gref=65, a=5e-5, b=1.1, K0=0.4598, intf_delta=24):
